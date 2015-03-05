@@ -1,6 +1,5 @@
 def map_keys_pop(pop):
     for element in pop:
-        print str(element)
         element['time'] = element['Year']
         del element['Year']
         element['geo'] = element['Area']
