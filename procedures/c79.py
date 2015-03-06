@@ -1,10 +1,8 @@
-def map_keys_pop(pop):
+def map_keys_pop(pop, map_keys):
+
     for element in pop:
-        element['time'] = element['Year']
-        del element['Year']
-        element['geo'] = element['Area']
-        del element['Area']
-        element['pop'] = element['Population with interpolations']
-        del element['Population with interpolations']
+        for key in map_keys:
+            element[map_keys[key]] = element[key]
+            del element[key]
 
     return pop
