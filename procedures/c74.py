@@ -13,6 +13,9 @@ def cal_world_pop(pop, col_map, col_key):
         pop_per_year = [val for val in pop if int(val['Year']) == year]
         pop_per_year_sum = sum(val[col_val] for val in pop_per_year)
 
+        pop_per_year_source = [val['Source'] for val in pop]
+        source = ','.join(list(set(pop_per_year_source)))
+
         year_pop = dict()
 
         for column_key in col_map:
@@ -24,6 +27,8 @@ def cal_world_pop(pop, col_map, col_key):
                 year_pop[col_val] = pop_per_year_sum
             elif column_key == 'Area':
                 year_pop['Area'] = 'world'
+            elif column_key == 'Source':
+                year_pop['Source'] = source
 
         world_pop.append(year_pop)
 

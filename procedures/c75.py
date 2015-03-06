@@ -27,6 +27,8 @@ def get_pop_for_region(min_year, max_year, regions_list, region_id, column_map, 
     for year in range(min_year, max_year):
         region_pop_per_year = [val for val in regions_list if int(val['Year']) == year]
         region_per_year_sum = sum(val[col_val] for val in region_pop_per_year)
+        pop_per_year_source = [val['Source'] for val in regions_list]
+        source = ','.join(list(set(pop_per_year_source)))
 
         reg_pop = dict()
         for column_key in column_map:
@@ -38,6 +40,8 @@ def get_pop_for_region(min_year, max_year, regions_list, region_id, column_map, 
                 reg_pop['Area'] = region_id
             elif column_key == col_val:
                 reg_pop[col_val] = region_per_year_sum
+            elif column_key == 'Source':
+                reg_pop['Source'] = source
 
         region_pop.append(reg_pop)
 
