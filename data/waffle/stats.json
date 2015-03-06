@@ -1,0 +1,4325 @@
+[
+    {
+        "Source": "US Census Bureau,World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 683967.8694501757, 
+        "geo": "asi", 
+        "lex": 3654.885, 
+        "pop": 4157730696.0, 
+        "time": 2014, 
+        "version": "3.0"
+    }, 
+    {
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 364324.3793651041, 
+        "geo": "ame", 
+        "lex": 2632.966, 
+        "pop": 961473397.0, 
+        "time": 2014, 
+        "version": "3.0"
+    }, 
+    {
+        "Source": "South Sudan Statistical Yearbook 2011.,World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 194157.302169153, 
+        "geo": "afr", 
+        "lex": 3301.2520000000004, 
+        "pop": 1037348098.0, 
+        "time": 2014, 
+        "version": "3.0"
+    }, 
+    {
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 925596.5287977101, 
+        "geo": "eur", 
+        "lex": 3247.944, 
+        "pop": 823023143.0, 
+        "time": 2014, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 35623235.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1374.0665068049254, 
+        "geo": "afg", 
+        "lex": 61.347, 
+        "pop": 35623235.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3248655.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7199.943199501399, 
+        "geo": "alb", 
+        "lex": 77.6, 
+        "pop": 3248655.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 37473690.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 6658.740348156928, 
+        "geo": "dza", 
+        "lex": 71.123, 
+        "pop": 37473690.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 73009.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "asm", 
+        "pop": 73009.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 90302.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "and", 
+        "pop": 90302.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21274503.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 6267.648271228544, 
+        "geo": "ago", 
+        "lex": 52.3, 
+        "pop": 21274503.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 16390.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "aia", 
+        "pop": 16390.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 92290.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 14395.227237526558, 
+        "geo": "atg", 
+        "lex": 76.126, 
+        "pop": 92290.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 41827217.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 16337.879074302453, 
+        "geo": "arg", 
+        "lex": 76.482, 
+        "pop": 41827217.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3125790.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5384.737304779708, 
+        "geo": "arm", 
+        "lex": 74.664, 
+        "pop": 3125790.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 109118.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "abw", 
+        "lex": 75.586, 
+        "pop": 109118.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 23502754.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 37418.89807464703, 
+        "geo": "aus", 
+        "lex": 82.629, 
+        "pop": 23502754.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 8452081.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 37386.709745051776, 
+        "geo": "aut", 
+        "lex": 81.301, 
+        "pop": 8452081.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9643103.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10079.328950617652, 
+        "geo": "aze", 
+        "lex": 70.827, 
+        "pop": 9643103.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 359142.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 22051.173453745865, 
+        "geo": "bhs", 
+        "lex": 75.394, 
+        "pop": 359142.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1389036.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 25303.949191392727, 
+        "geo": "bhr", 
+        "lex": 76.743, 
+        "pop": 1389036.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 156380192.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1978.5173834560592, 
+        "geo": "bgd", 
+        "lex": 71.05, 
+        "pop": 156380192.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 275746.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 16395.64342905326, 
+        "geo": "brb", 
+        "lex": 75.534, 
+        "pop": 275746.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9469915.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 14308.173390471917, 
+        "geo": "blr", 
+        "lex": 70.032, 
+        "pop": 9469915.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10841093.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 32554.91904131353, 
+        "geo": "bel", 
+        "lex": 80.718, 
+        "pop": 10841093.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 337209.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7662.832927073837, 
+        "geo": "blz", 
+        "lex": 74.09, 
+        "pop": 337209.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9865290.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1505.6523205378903, 
+        "geo": "ben", 
+        "lex": 59.495, 
+        "pop": 9865290.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 65457.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "bmu", 
+        "pop": 65457.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 773646.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7052.665549176539, 
+        "geo": "btn", 
+        "lex": 68.69, 
+        "pop": 773646.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10573218.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4624.13450993217, 
+        "geo": "bol", 
+        "lex": 67.541, 
+        "pop": 10573218.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3726569.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7882.544176837554, 
+        "geo": "bih", 
+        "lex": 76.53, 
+        "pop": 3726569.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2095201.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 14884.857010313252, 
+        "geo": "bwa", 
+        "lex": 48.079, 
+        "pop": 2095201.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 201700544.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10960.665281492029, 
+        "geo": "bra", 
+        "lex": 74.204, 
+        "pop": 201700544.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 24148.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "vgb", 
+        "pop": 24148.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 426570.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 47532.07207320746, 
+        "geo": "brn", 
+        "lex": 78.742, 
+        "pop": 426570.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 7300838.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 12264.74073249441, 
+        "geo": "bgr", 
+        "lex": 73.652, 
+        "pop": 7300838.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 18556912.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1491.7856370131828, 
+        "geo": "bfa", 
+        "lex": 56.747, 
+        "pop": 18556912.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9069456.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 506.9099126190935, 
+        "geo": "bdi", 
+        "lex": 54.544, 
+        "pop": 9069456.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 14835553.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2328.905668168651, 
+        "geo": "khm", 
+        "lex": 72.253, 
+        "pop": 14835553.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21362945.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2216.7514552527273, 
+        "geo": "cmr", 
+        "lex": 55.516, 
+        "pop": 21362945.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 35309555.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 36643.560097849455, 
+        "geo": "can", 
+        "lex": 81.633, 
+        "pop": 35309555.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 515134.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4125.057493532857, 
+        "geo": "cpv", 
+        "lex": 75.406, 
+        "pop": 515134.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 58169.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "cym", 
+        "pop": 58169.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4759950.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 756.0723653084124, 
+        "geo": "caf", 
+        "lex": 50.812, 
+        "pop": 4759950.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 12458071.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2011.1818888231223, 
+        "geo": "tcd", 
+        "lex": 51.629, 
+        "pop": 12458071.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 154604.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "_cis", 
+        "lex": 80.466, 
+        "pop": 154604.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 17722868.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 16617.688431121624, 
+        "geo": "chl", 
+        "lex": 80.212, 
+        "pop": 17722868.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1364773138.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 9664.715145197928, 
+        "geo": "chn", 
+        "lex": 75.484, 
+        "pop": 1364773138.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 48770570.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 8538.289183031226, 
+        "geo": "col", 
+        "lex": 74.24, 
+        "pop": 48770570.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 812608.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1061.1855787745715, 
+        "geo": "com", 
+        "lex": 61.083, 
+        "pop": 812608.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 73291196.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 437.96424006102313, 
+        "geo": "cod", 
+        "lex": 50.276, 
+        "pop": 73291196.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4415338.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4426.113876491068, 
+        "geo": "cog", 
+        "lex": 59.217, 
+        "pop": 4415338.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 20737.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "cok", 
+        "pop": 20737.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4924721.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 11523.063631325052, 
+        "geo": "cri", 
+        "lex": 80.146, 
+        "pop": 4924721.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21532811.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1638.8532969098815, 
+        "geo": "civ", 
+        "lex": 51.085, 
+        "pop": 21532811.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4369961.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 13562.645504703043, 
+        "geo": "hrv", 
+        "lex": 77.217, 
+        "pop": 4369961.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 11238373.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "cub", 
+        "lex": 79.436, 
+        "pop": 11238373.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1153409.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "cyp", 
+        "lex": 80.008, 
+        "pop": 1153409.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10611300.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 22913.186209711832, 
+        "geo": "cze", 
+        "lex": 77.831, 
+        "pop": 10611300.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5628958.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 33270.37590175784, 
+        "geo": "dnk", 
+        "lex": 79.527, 
+        "pop": 5628958.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 957625.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2340.0355760418174, 
+        "geo": "dji", 
+        "lex": 62.258, 
+        "pop": 957625.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 67750.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10513.19545761588, 
+        "geo": "dma", 
+        "pop": 67750.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10431820.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7119.846296603786, 
+        "geo": "dom", 
+        "lex": 73.621, 
+        "pop": 10431820.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 15255149.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 8327.255560395206, 
+        "geo": "ecu", 
+        "lex": 76.74, 
+        "pop": 15255149.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 86787634.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 6088.216313324726, 
+        "geo": "egy", 
+        "lex": 71.375, 
+        "pop": 86787634.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6342991.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5970.8101895958325, 
+        "geo": "slv", 
+        "lex": 72.833, 
+        "pop": 6342991.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 781773.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 12422.562447503291, 
+        "geo": "gnq", 
+        "lex": 53.532, 
+        "pop": 781773.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5914510.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 611.0064781532682, 
+        "geo": "eri", 
+        "lex": 63.368, 
+        "pop": 5914510.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1337821.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 20038.132852723935, 
+        "geo": "est", 
+        "lex": 74.556, 
+        "pop": 1337821.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 90178951.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1036.9946918950823, 
+        "geo": "eth", 
+        "lex": 64.229, 
+        "pop": 90178951.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 49585.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "fro", 
+        "pop": 49585.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3053.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "flk", 
+        "pop": 3053.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 889587.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4332.071589688061, 
+        "geo": "fji", 
+        "lex": 69.991, 
+        "pop": 889587.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5434241.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 31789.099712274066, 
+        "geo": "fin", 
+        "lex": 80.699, 
+        "pop": 5434241.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 64101308.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 29863.96340032503, 
+        "geo": "fra", 
+        "lex": 81.958, 
+        "pop": 64101308.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 255738.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "guf", 
+        "lex": 77.353, 
+        "pop": 255738.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 282482.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "pyf", 
+        "lex": 76.468, 
+        "pop": 282482.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1625091.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 15252.102980322428, 
+        "geo": "gab", 
+        "lex": 63.83, 
+        "pop": 1625091.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1924758.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 836.8191958361341, 
+        "geo": "gmb", 
+        "lex": 59.04, 
+        "pop": 1924758.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4251727.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5511.4504764251105, 
+        "geo": "geo", 
+        "lex": 74.442, 
+        "pop": 4251727.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 81625599.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 34980.381504024575, 
+        "geo": "deu", 
+        "lex": 80.903, 
+        "pop": 81625599.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 26721130.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1876.8974452570942, 
+        "geo": "gha", 
+        "lex": 61.289, 
+        "pop": 26721130.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 29341.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "gib", 
+        "pop": 29341.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 11470255.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 21122.327188414514, 
+        "geo": "grc", 
+        "lex": 80.943, 
+        "pop": 11470255.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 57294.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "grl", 
+        "pop": 57294.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 106130.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 8605.9642910808, 
+        "geo": "grd", 
+        "lex": 72.898, 
+        "pop": 106130.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 469273.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "glp", 
+        "lex": 81.184, 
+        "pop": 469273.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 188786.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "gum", 
+        "lex": 79.12, 
+        "pop": 188786.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 15924031.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5378.86368780126, 
+        "geo": "gtm", 
+        "lex": 72.417, 
+        "pop": 15924031.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 11034203.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1010.9061079441041, 
+        "geo": "gin", 
+        "lex": 56.361, 
+        "pop": 11034203.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1646870.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 653.3353536695716, 
+        "geo": "gnb", 
+        "lex": 54.529, 
+        "pop": 1646870.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 760972.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4740.9638122831975, 
+        "geo": "guy", 
+        "lex": 66.45, 
+        "pop": 760972.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10521433.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1329.0070974312152, 
+        "geo": "hti", 
+        "lex": 63.419, 
+        "pop": 10521433.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 460.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "hos", 
+        "pop": 460.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 8231762.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3690.9626011310543, 
+        "geo": "hnd", 
+        "lex": 74.117, 
+        "pop": 8231762.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 7352945.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 46337.77172429148, 
+        "geo": "hkg", 
+        "lex": 83.556, 
+        "pop": 7352945.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9918377.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 17335.1901876717, 
+        "geo": "hun", 
+        "lex": 74.752, 
+        "pop": 9918377.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 335631.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 35377.93415668447, 
+        "geo": "isl", 
+        "lex": 82.213, 
+        "pop": 335631.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1291780156.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3531.518344626086, 
+        "geo": "ind", 
+        "lex": 66.655, 
+        "pop": 1291780156.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 249563467.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4815.2517553315665, 
+        "geo": "idn", 
+        "lex": 71.039, 
+        "pop": 249563467.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 77176386.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 11992.579665992333, 
+        "geo": "irn", 
+        "lex": 74.352, 
+        "pop": 77176386.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 35870865.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4623.108662149782, 
+        "geo": "irq", 
+        "lex": 69.643, 
+        "pop": 35870865.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4682042.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 36599.40227356587, 
+        "geo": "irl", 
+        "lex": 80.883, 
+        "pop": 4682042.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 84453.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "gbm", 
+        "pop": 84453.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 7939745.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 28159.28552434518, 
+        "geo": "isr", 
+        "lex": 81.956, 
+        "pop": 7939745.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 61175248.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 25423.23174492597, 
+        "geo": "ita", 
+        "lex": 82.535, 
+        "pop": 61175248.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2780689.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7014.3336665814095, 
+        "geo": "jam", 
+        "lex": 73.69, 
+        "pop": 2780689.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 126225259.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 32357.49489822276, 
+        "geo": "jpn", 
+        "lex": 83.739, 
+        "pop": 126225259.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6684319.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5353.6414477660755, 
+        "geo": "jor", 
+        "lex": 74.008, 
+        "pop": 6684319.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 16718609.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 13092.789298078449, 
+        "geo": "kaz", 
+        "lex": 66.681, 
+        "pop": 16718609.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 45121040.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1612.2240532899502, 
+        "geo": "ken", 
+        "lex": 62.203, 
+        "pop": 45121040.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 105859.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3101.7361041025633, 
+        "geo": "kir", 
+        "lex": 69.213, 
+        "pop": 105859.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 24754262.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "prk", 
+        "lex": 70.285, 
+        "pop": 24754262.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 48951680.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 27736.459940450306, 
+        "geo": "kor", 
+        "lex": 81.773, 
+        "pop": 48951680.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3023402.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 41481.02749273959, 
+        "geo": "kwt", 
+        "lex": 74.393, 
+        "pop": 3023402.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5561968.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2350.545820069546, 
+        "geo": "kgz", 
+        "lex": 67.693, 
+        "pop": 5561968.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6543484.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3176.978661054714, 
+        "geo": "lao", 
+        "lex": 68.746, 
+        "pop": 6543484.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2218123.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 17005.824644287848, 
+        "geo": "lva", 
+        "lex": 72.258, 
+        "pop": 2218123.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4355504.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 14174.725417237036, 
+        "geo": "lbn", 
+        "lex": 80.3, 
+        "pop": 4355504.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2263367.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2093.6669393273414, 
+        "geo": "lso", 
+        "lex": 49.818, 
+        "pop": 2263367.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4450850.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 537.4684086729139, 
+        "geo": "lbr", 
+        "lex": 60.883, 
+        "pop": 4450850.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6547972.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 11657.239138716097, 
+        "geo": "lby", 
+        "lex": 75.521, 
+        "pop": 6547972.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 37161.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "lie", 
+        "pop": 37161.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3264812.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 19902.05297474212, 
+        "geo": "ltu", 
+        "lex": 72.273, 
+        "pop": 3264812.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 536427.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 67005.89751953755, 
+        "geo": "lux", 
+        "lex": 80.719, 
+        "pop": 536427.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 590061.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "mac", 
+        "lex": 80.612, 
+        "pop": 590061.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2071178.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 9341.609202674601, 
+        "geo": "mkd", 
+        "lex": 75.355, 
+        "pop": 2071178.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 23196155.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 994.8564950234444, 
+        "geo": "mdg", 
+        "lex": 65.159, 
+        "pop": 23196155.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 16953614.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 896.5368957263943, 
+        "geo": "mwi", 
+        "lex": 55.757, 
+        "pop": 16953614.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 30252089.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 15182.12401253931, 
+        "geo": "mys", 
+        "lex": 75.198, 
+        "pop": 30252089.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 332752.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 6313.726904314259, 
+        "geo": "mdv", 
+        "lex": 78.263, 
+        "pop": 332752.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 17308179.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1121.6103573164207, 
+        "geo": "mli", 
+        "lex": 55.438, 
+        "pop": 17308179.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 421844.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 23106.763966001632, 
+        "geo": "mlt", 
+        "lex": 79.927, 
+        "pop": 421844.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 57655.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 6387.723213983485, 
+        "geo": "mhl", 
+        "pop": 57655.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 410322.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "mtq", 
+        "lex": 81.636, 
+        "pop": 410322.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3786430.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2028.1722671517623, 
+        "geo": "mrt", 
+        "lex": 61.707, 
+        "pop": 3786430.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1327488.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 14009.9862850544, 
+        "geo": "mus", 
+        "lex": 73.773, 
+        "pop": 1327488.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 230670.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "myt", 
+        "lex": 79.42, 
+        "pop": 230670.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 118783265.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 12607.609076677038, 
+        "geo": "mex", 
+        "lex": 77.719, 
+        "pop": 118783265.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 113415.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5873.60312915259, 
+        "geo": "fsm", 
+        "lex": 69.104, 
+        "pop": 113415.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3473640.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3211.7371622159726, 
+        "geo": "mda", 
+        "lex": 69.019, 
+        "pop": 3473640.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 35466.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "mco", 
+        "pop": 35466.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2931566.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5312.1359000833845, 
+        "geo": "mng", 
+        "lex": 67.717, 
+        "pop": 2931566.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 633506.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10322.204585141284, 
+        "geo": "mne", 
+        "lex": 74.927, 
+        "pop": 633506.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6153.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "msr", 
+        "pop": 6153.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 33250406.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4846.165133507295, 
+        "geo": "mar", 
+        "lex": 71.161, 
+        "pop": 33250406.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 25590335.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1191.021854266649, 
+        "geo": "moz", 
+        "lex": 50.579, 
+        "pop": 25590335.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 49514208.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1806.7089232337712, 
+        "geo": "mmr", 
+        "lex": 65.342, 
+        "pop": 49514208.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2444050.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5895.446379742596, 
+        "geo": "nam", 
+        "lex": 64.824, 
+        "pop": 2444050.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10502.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "nru", 
+        "pop": 10502.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 32058733.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1312.1512171570432, 
+        "geo": "npl", 
+        "lex": 68.819, 
+        "pop": 32058733.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 16806723.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 36223.84884618155, 
+        "geo": "nld", 
+        "lex": 81.171, 
+        "pop": 16806723.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 206981.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "ant", 
+        "lex": 77.014, 
+        "pop": 206981.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 266398.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "ncl", 
+        "lex": 76.522, 
+        "pop": 266398.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4554858.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 26162.033664867246, 
+        "geo": "nzl", 
+        "lex": 81.281, 
+        "pop": 4554858.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6128318.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3251.28141512916, 
+        "geo": "nic", 
+        "lex": 75.157, 
+        "pop": 6128318.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 17857866.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 751.3260709721337, 
+        "geo": "ner", 
+        "lex": 58.881, 
+        "pop": 17857866.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 175288238.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2698.2389305404718, 
+        "geo": "nga", 
+        "lex": 52.893, 
+        "pop": 175288238.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1310.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "niu", 
+        "pop": 1310.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 65135.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "mnp", 
+        "pop": 65135.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5022555.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 48537.852735529916, 
+        "geo": "nor", 
+        "lex": 81.634, 
+        "pop": 5022555.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3008301.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 26602.785373298775, 
+        "geo": "omn", 
+        "lex": 76.807, 
+        "pop": 3008301.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 186428686.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2753.4729207374976, 
+        "geo": "pak", 
+        "lex": 66.719, 
+        "pop": 186428686.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21101.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "plw", 
+        "pop": 21101.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3731059.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 15344.931622571825, 
+        "geo": "pan", 
+        "lex": 77.769, 
+        "pop": 3731059.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 7485612.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2510.2388643642225, 
+        "geo": "png", 
+        "lex": 62.556, 
+        "pop": 7485612.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6913774.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4985.235782700828, 
+        "geo": "pry", 
+        "lex": 72.34, 
+        "pop": 6913774.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 30418591.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10149.495448177862, 
+        "geo": "per", 
+        "lex": 75.123, 
+        "pop": 30418591.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 99765288.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3961.5107415250336, 
+        "geo": "phl", 
+        "lex": 68.865, 
+        "pop": 99765288.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 38344752.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 18141.85996710761, 
+        "geo": "pol", 
+        "lex": 76.578, 
+        "pop": 38344752.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10705265.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 19194.30420057242, 
+        "geo": "prt", 
+        "lex": 80.154, 
+        "pop": 10705265.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3742016.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "pri", 
+        "lex": 79.04, 
+        "pop": 3742016.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2003449.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 93454.45156808035, 
+        "geo": "qat", 
+        "lex": 78.51, 
+        "pop": 2003449.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 884221.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "reu", 
+        "lex": 79.888, 
+        "pop": 884221.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21289792.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 11501.258759757076, 
+        "geo": "rou", 
+        "lex": 73.948, 
+        "pop": 21289792.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 142400066.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 16664.47232964857, 
+        "geo": "rus", 
+        "lex": 68.089, 
+        "pop": 142400066.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 11950332.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1353.8441482571257, 
+        "geo": "rwa", 
+        "lex": 64.534, 
+        "pop": 11950332.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3949.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "shn", 
+        "pop": 3949.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 54971.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 12796.04933549892, 
+        "geo": "kna", 
+        "pop": 54971.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 181202.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10755.914713920612, 
+        "geo": "lca", 
+        "lex": 74.928, 
+        "pop": 181202.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 109344.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 7172.844058939275, 
+        "geo": "vct", 
+        "lex": 72.589, 
+        "pop": 109344.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6044.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "spm", 
+        "pop": 6044.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 186674.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5226.715589380416, 
+        "geo": "wsm", 
+        "lex": 73.442, 
+        "pop": 186674.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 32353.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "smr", 
+        "pop": 32353.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 178941.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2051.0327753377564, 
+        "geo": "stp", 
+        "lex": 66.465, 
+        "pop": 178941.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 29929474.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 27363.485767274098, 
+        "geo": "sau", 
+        "lex": 75.694, 
+        "pop": 29929474.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 13805433.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1808.7566214312503, 
+        "geo": "sen", 
+        "lex": 63.603, 
+        "pop": 13805433.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9821299.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 9713.28103054652, 
+        "geo": "srb", 
+        "lex": 74.186, 
+        "pop": 9821299.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 87671.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 18068.982613806278, 
+        "geo": "syc", 
+        "lex": 73.354, 
+        "pop": 87671.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6384066.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1363.5196583940815, 
+        "geo": "sle", 
+        "lex": 45.795, 
+        "pop": 6384066.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5336859.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 51163.89426182392, 
+        "geo": "sgp", 
+        "lex": 82.489, 
+        "pop": 5336859.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5497156.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 21602.18139488358, 
+        "geo": "svk", 
+        "lex": 75.525, 
+        "pop": 5497156.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 2049112.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 23743.656030843536, 
+        "geo": "svn", 
+        "lex": 79.74, 
+        "pop": 2049112.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 595210.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2088.7917866820685, 
+        "geo": "slb", 
+        "lex": 67.885, 
+        "pop": 595210.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10322712.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "som", 
+        "lex": 55.382, 
+        "pop": 10322712.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 51207132.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 10022.524212895343, 
+        "geo": "zaf", 
+        "lex": 57.367, 
+        "pop": 51207132.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 11384393.0, 
+        "Source": "South Sudan Statistical Yearbook 2011.", 
+        "dim": "geo-time", 
+        "gdp": 2714.382679776492, 
+        "geo": "sds", 
+        "lex": 55.851, 
+        "pop": 11384393.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 47290504.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 26333.631793510296, 
+        "geo": "esp", 
+        "lex": 82.242, 
+        "pop": 47290504.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21555851.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5798.813908764014, 
+        "geo": "lka", 
+        "lex": 74.47, 
+        "pop": 21555851.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 36554335.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2875.1955559462153, 
+        "geo": "sdn", 
+        "lex": 62.236, 
+        "pop": 36554335.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 543497.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 9541.190801349747, 
+        "geo": "sur", 
+        "lex": 71.235, 
+        "pop": 543497.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1253525.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4877.129304438389, 
+        "geo": "swz", 
+        "lex": 49.0, 
+        "pop": 1253525.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9595619.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 35224.88477054688, 
+        "geo": "swe", 
+        "lex": 81.948, 
+        "pop": 9595619.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 7788196.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 38379.52349675652, 
+        "geo": "che", 
+        "lex": 82.739, 
+        "pop": 7788196.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 21823405.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "syr", 
+        "lex": 74.646, 
+        "pop": 21823405.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 23184000.0, 
+        "Source": "US Census Bureau", 
+        "dim": "geo-time", 
+        "gdp": 34842.17999697721, 
+        "geo": "twn", 
+        "pop": 23184000.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 7290752.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2123.9449786324785, 
+        "geo": "tjk", 
+        "lex": 67.379, 
+        "pop": 7290752.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 50705390.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1466.0348395826227, 
+        "geo": "tza", 
+        "lex": 62.051, 
+        "pop": 50705390.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 70571185.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 9244.168380123887, 
+        "geo": "tha", 
+        "lex": 74.58, 
+        "pop": 70571185.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1261910.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4003.387003865574, 
+        "geo": "tls", 
+        "lex": 68.014, 
+        "pop": 1261910.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 6543071.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1035.0830392204973, 
+        "geo": "tgo", 
+        "lex": 56.866, 
+        "pop": 6543071.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1145.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "tkl", 
+        "pop": 1145.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 105714.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 5053.359427095697, 
+        "geo": "ton", 
+        "lex": 72.831, 
+        "pop": 105714.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 1359308.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 17822.62503687148, 
+        "geo": "tto", 
+        "lex": 69.968, 
+        "pop": 1359308.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 10920693.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 8070.772842493388, 
+        "geo": "tun", 
+        "lex": 76.109, 
+        "pop": 10920693.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 76190381.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 9727.592059047254, 
+        "geo": "tur", 
+        "lex": 75.573, 
+        "pop": 76190381.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 5299717.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 8921.115178464188, 
+        "geo": "tkm", 
+        "lex": 65.604, 
+        "pop": 5299717.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 40479.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "tca", 
+        "pop": 40479.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 9913.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "tuv", 
+        "pop": 9913.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 37923329.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1305.652828476223, 
+        "geo": "uga", 
+        "lex": 59.667, 
+        "pop": 37923329.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 44457736.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 6634.6754168051875, 
+        "geo": "ukr", 
+        "lex": 68.635, 
+        "pop": 44457736.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 8277632.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 32209.08857871968, 
+        "geo": "are", 
+        "lex": 77.01, 
+        "pop": 8277632.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 63556184.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 31483.79366948258, 
+        "geo": "gbr", 
+        "lex": 80.699, 
+        "pop": 63556184.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 321197444.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 43584.569003000615, 
+        "geo": "usa", 
+        "lex": 79.087, 
+        "pop": 321197444.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 3415252.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 14128.04678620788, 
+        "geo": "ury", 
+        "lex": 77.377, 
+        "pop": 3415252.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 28725263.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3468.5448952928805, 
+        "geo": "uzb", 
+        "lex": 68.363, 
+        "pop": 28725263.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 13192.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "wlf", 
+        "pop": 13192.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 264026.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 4096.320601439933, 
+        "geo": "vut", 
+        "lex": 71.901, 
+        "pop": 264026.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 30786062.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 11587.880772048173, 
+        "geo": "ven", 
+        "lex": 74.79, 
+        "pop": 30786062.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 4519541.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "pse", 
+        "lex": 73.385, 
+        "pop": 4519541.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 604355.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "esh", 
+        "lex": 68.04, 
+        "pop": 604355.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 91562821.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 3323.6992131078, 
+        "geo": "vnm", 
+        "lex": 76.097, 
+        "pop": 91562821.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 107991.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "geo": "vir", 
+        "lex": 80.379, 
+        "pop": 107991.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 27162547.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 2120.346996944156, 
+        "geo": "yem", 
+        "lex": 63.296, 
+        "pop": 27162547.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 14767550.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 1720.9683168908068, 
+        "geo": "zmb", 
+        "lex": 59.044, 
+        "pop": 14767550.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Population": 13665123.0, 
+        "Source": "World population prospects: 2010 revision.", 
+        "dim": "geo-time", 
+        "gdp": 591.9637197890827, 
+        "geo": "zwe", 
+        "lex": 61.165, 
+        "pop": 13665123.0, 
+        "time": 2014.0, 
+        "version": "3.0"
+    }, 
+    {
+        "Source": "South Sudan Statistical Yearbook 2011.,World population prospects: 2010 revision.,US Census Bureau", 
+        "dim": "geo-time", 
+        "gdp": 2337749.1095672976, 
+        "geo": "world", 
+        "lex": 14194.6, 
+        "pop": 7207330525.0, 
+        "time": 2014, 
+        "version": "3.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1417.7603456470083, 
+        "geo": "afg", 
+        "lex": 61.726, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 7343.225648719248, 
+        "geo": "alb", 
+        "lex": 77.807, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6796.973367194545, 
+        "geo": "dza", 
+        "lex": 71.246, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6511.997978861456, 
+        "geo": "ago", 
+        "lex": 52.698, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 14883.785792109455, 
+        "geo": "atg", 
+        "lex": 76.297, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 16640.075484309335, 
+        "geo": "arg", 
+        "lex": 76.661, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5560.674266733015, 
+        "geo": "arm", 
+        "lex": 74.78, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "abw", 
+        "lex": 75.718, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 38084.61020084217, 
+        "geo": "aus", 
+        "lex": 82.767, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 37811.41732380385, 
+        "geo": "aut", 
+        "lex": 81.46, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10475.156607550638, 
+        "geo": "aze", 
+        "lex": 70.916, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 22352.827990287737, 
+        "geo": "bhs", 
+        "lex": 75.553, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 25708.082598965066, 
+        "geo": "bhr", 
+        "lex": 76.88, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2086.9004134212214, 
+        "geo": "bgd", 
+        "lex": 71.435, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 16600.077644763907, 
+        "geo": "brb", 
+        "lex": 75.699, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 14802.628091561488, 
+        "geo": "blr", 
+        "lex": 70.144, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 32723.111422119986, 
+        "geo": "bel", 
+        "lex": 80.886, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 7719.809581856268, 
+        "geo": "blz", 
+        "lex": 74.3, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1530.8294636822304, 
+        "geo": "ben", 
+        "lex": 59.664, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 7663.784786468867, 
+        "geo": "btn", 
+        "lex": 69.079, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4764.809373821834, 
+        "geo": "bol", 
+        "lex": 67.813, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 8174.8591812513005, 
+        "geo": "bih", 
+        "lex": 76.69, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 15347.414369411728, 
+        "geo": "bwa", 
+        "lex": 48.669, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 11326.453922976803, 
+        "geo": "bra", 
+        "lex": 74.468, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 50244.63765206001, 
+        "geo": "brn", 
+        "lex": 78.937, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 12694.00722953682, 
+        "geo": "bgr", 
+        "lex": 73.758, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1559.904209016806, 
+        "geo": "bfa", 
+        "lex": 57.145, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 522.1808992498969, 
+        "geo": "bdi", 
+        "lex": 54.953, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2475.80770969004, 
+        "geo": "khm", 
+        "lex": 72.596, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2286.89494930108, 
+        "geo": "cmr", 
+        "lex": 55.958, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 37222.30025403266, 
+        "geo": "can", 
+        "lex": 81.778, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4260.184575662932, 
+        "geo": "cpv", 
+        "lex": 75.711, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 776.7260479244402, 
+        "geo": "caf", 
+        "lex": 51.412, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2122.3804874982065, 
+        "geo": "tcd", 
+        "lex": 52.058, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "_cis", 
+        "lex": 80.611, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 17232.09022370008, 
+        "geo": "chl", 
+        "lex": 80.457, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10435.260659291327, 
+        "geo": "chn", 
+        "lex": 75.636, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 8816.042948689186, 
+        "geo": "col", 
+        "lex": 74.443, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1080.6142856128351, 
+        "geo": "com", 
+        "lex": 61.288, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 454.497180767204, 
+        "geo": "cod", 
+        "lex": 50.581, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5227.052562412768, 
+        "geo": "cog", 
+        "lex": 59.598, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 11910.128311949615, 
+        "geo": "cri", 
+        "lex": 80.355, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1719.312012223784, 
+        "geo": "civ", 
+        "lex": 51.459, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 13833.8985999534, 
+        "geo": "hrv", 
+        "lex": 77.388, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "cub", 
+        "lex": 79.612, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "cyp", 
+        "lex": 80.174, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 23501.607188877733, 
+        "geo": "cze", 
+        "lex": 77.979, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 33668.65501921868, 
+        "geo": "dnk", 
+        "lex": 79.671, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2401.3486007772563, 
+        "geo": "dji", 
+        "lex": 62.688, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 7314.594763078216, 
+        "geo": "dom", 
+        "lex": 73.838, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 8509.826259270198, 
+        "geo": "ecu", 
+        "lex": 76.999, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6298.5487138735325, 
+        "geo": "egy", 
+        "lex": 71.586, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6047.577329608363, 
+        "geo": "slv", 
+        "lex": 73.064, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 11183.4871634598, 
+        "geo": "gnq", 
+        "lex": 53.972, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 604.8785111291124, 
+        "geo": "eri", 
+        "lex": 63.875, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 20711.656349977995, 
+        "geo": "est", 
+        "lex": 74.684, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1080.615954621463, 
+        "geo": "eth", 
+        "lex": 64.772, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4396.452497248578, 
+        "geo": "fji", 
+        "lex": 70.17, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 32114.224895522286, 
+        "geo": "fin", 
+        "lex": 80.855, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 30161.092343447013, 
+        "geo": "fra", 
+        "lex": 82.108, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "guf", 
+        "lex": 77.582, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "pyf", 
+        "lex": 76.685, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 16073.207782186293, 
+        "geo": "gab", 
+        "lex": 64.164, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 867.1217139999035, 
+        "geo": "gmb", 
+        "lex": 59.257, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5841.800558260979, 
+        "geo": "geo", 
+        "lex": 74.584, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 35512.940522152676, 
+        "geo": "deu", 
+        "lex": 81.062, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1952.5275739373176, 
+        "geo": "gha", 
+        "lex": 61.453, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 21765.29071973941, 
+        "geo": "grc", 
+        "lex": 81.108, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 8708.243598710858, 
+        "geo": "grd", 
+        "lex": 73.031, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "glp", 
+        "lex": 81.406, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "gum", 
+        "lex": 79.384, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5431.340712647975, 
+        "geo": "gtm", 
+        "lex": 72.723, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1039.342689172282, 
+        "geo": "gin", 
+        "lex": 56.618, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 673.0703134966486, 
+        "geo": "gnb", 
+        "lex": 54.766, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5009.280807888237, 
+        "geo": "guy", 
+        "lex": 66.6, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1389.237731235312, 
+        "geo": "hti", 
+        "lex": 63.7, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3724.0402667172625, 
+        "geo": "hnd", 
+        "lex": 74.404, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 47952.64752912284, 
+        "geo": "hkg", 
+        "lex": 83.734, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 17634.018840361383, 
+        "geo": "hun", 
+        "lex": 74.889, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 35931.613121338785, 
+        "geo": "isl", 
+        "lex": 82.342, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3716.8406625043317, 
+        "geo": "ind", 
+        "lex": 66.892, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5053.288997504681, 
+        "geo": "idn", 
+        "lex": 71.242, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 12074.692874512179, 
+        "geo": "irn", 
+        "lex": 74.649, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4857.6102955282095, 
+        "geo": "irq", 
+        "lex": 69.841, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 37373.49347522231, 
+        "geo": "irl", 
+        "lex": 81.061, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 28535.066453331827, 
+        "geo": "isr", 
+        "lex": 82.105, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 25670.027360561187, 
+        "geo": "ita", 
+        "lex": 82.687, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 7104.8339897095, 
+        "geo": "jam", 
+        "lex": 73.837, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 32783.98877241051, 
+        "geo": "jpn", 
+        "lex": 83.897, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5442.79731111782, 
+        "geo": "jor", 
+        "lex": 74.16, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 13766.873567458691, 
+        "geo": "kaz", 
+        "lex": 66.83, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1666.371448230455, 
+        "geo": "ken", 
+        "lex": 62.585, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3112.7249879171895, 
+        "geo": "kir", 
+        "lex": 69.514, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "prk", 
+        "lex": 70.553, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 28720.612664892473, 
+        "geo": "kor", 
+        "lex": 82.013, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 41899.78083620278, 
+        "geo": "kwt", 
+        "lex": 74.501, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2451.572927906195, 
+        "geo": "kgz", 
+        "lex": 67.846, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3376.539679197489, 
+        "geo": "lao", 
+        "lex": 69.177, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 17771.257480847253, 
+        "geo": "lva", 
+        "lex": 72.369, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 14552.531523998608, 
+        "geo": "lbn", 
+        "lex": 80.595, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2162.6504406803606, 
+        "geo": "lso", 
+        "lex": 50.08, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 562.8605414941134, 
+        "geo": "lbr", 
+        "lex": 61.225, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 12478.895103313595, 
+        "geo": "lby", 
+        "lex": 75.719, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 20696.211635074713, 
+        "geo": "ltu", 
+        "lex": 72.428, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 66806.1176979385, 
+        "geo": "lux", 
+        "lex": 80.887, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "mac", 
+        "lex": 80.819, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 9653.373276531838, 
+        "geo": "mkd", 
+        "lex": 75.51, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1009.7701778326185, 
+        "geo": "mdg", 
+        "lex": 65.584, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 928.4594819300651, 
+        "geo": "mwi", 
+        "lex": 56.147, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 15704.61607668778, 
+        "geo": "mys", 
+        "lex": 75.379, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6463.455384699838, 
+        "geo": "mdv", 
+        "lex": 78.601, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1145.2367545089253, 
+        "geo": "mli", 
+        "lex": 55.841, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 23533.931154521495, 
+        "geo": "mlt", 
+        "lex": 80.104, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "mtq", 
+        "lex": 81.857, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2471.77102879, 
+        "geo": "mrt", 
+        "lex": 61.86, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 14586.056693777564, 
+        "geo": "mus", 
+        "lex": 73.932, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "myt", 
+        "lex": 79.652, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 12900.71281627928, 
+        "geo": "mex", 
+        "lex": 77.936, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5911.826354286216, 
+        "geo": "fsm", 
+        "lex": 69.215, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3375.417228540161, 
+        "geo": "mda", 
+        "lex": 69.139, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5630.627193081687, 
+        "geo": "mng", 
+        "lex": 67.934, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10495.40148428405, 
+        "geo": "mne", 
+        "lex": 75.033, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5040.776728525119, 
+        "geo": "mar", 
+        "lex": 71.373, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1261.082048612642, 
+        "geo": "moz", 
+        "lex": 50.908, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1890.1170500772, 
+        "geo": "mmr", 
+        "lex": 65.508, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6099.410713795442, 
+        "geo": "nam", 
+        "lex": 65.062, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1344.5605855386877, 
+        "geo": "npl", 
+        "lex": 69.215, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 36715.6211859831, 
+        "geo": "nld", 
+        "lex": 81.307, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "UN:WPP (2010) projections.", 
+        "dim": "geo-time", 
+        "geo": "ant", 
+        "lex": 77.136, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "ncl", 
+        "lex": 76.741, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 26572.09767316663, 
+        "geo": "nzl", 
+        "lex": 81.43, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3331.6077755831093, 
+        "geo": "nic", 
+        "lex": 75.468, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 772.1116737675152, 
+        "geo": "ner", 
+        "lex": 59.351, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2810.90403368124, 
+        "geo": "nga", 
+        "lex": 53.28, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 48998.973459027424, 
+        "geo": "nor", 
+        "lex": 81.763, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 26674.563162315204, 
+        "geo": "omn", 
+        "lex": 77.055, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2783.329397707364, 
+        "geo": "pak", 
+        "lex": 66.869, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 16081.922166221717, 
+        "geo": "pan", 
+        "lex": 77.98, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2940.05963314436, 
+        "geo": "png", 
+        "lex": 62.696, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5117.19790664553, 
+        "geo": "pry", 
+        "lex": 72.425, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10594.738423590294, 
+        "geo": "per", 
+        "lex": 75.413, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4089.677246811613, 
+        "geo": "phl", 
+        "lex": 69.024, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 18454.800677375322, 
+        "geo": "pol", 
+        "lex": 76.749, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 19471.112609818778, 
+        "geo": "prt", 
+        "lex": 80.359, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "pri", 
+        "lex": 79.214, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 95795.01193748521, 
+        "geo": "qat", 
+        "lex": 78.653, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "reu", 
+        "lex": 80.122, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 11791.34536284931, 
+        "geo": "rou", 
+        "lex": 74.072, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 17340.364007719785, 
+        "geo": "rus", 
+        "lex": 68.209, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1418.8180618474166, 
+        "geo": "rwa", 
+        "lex": 64.99, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10949.37841453053, 
+        "geo": "lca", 
+        "lex": 75.062, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 7378.466831825196, 
+        "geo": "vct", 
+        "lex": 72.693, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5342.751654345329, 
+        "geo": "wsm", 
+        "lex": 73.726, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2771.49524132938, 
+        "geo": "stp", 
+        "lex": 66.597, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 28017.74754748699, 
+        "geo": "sau", 
+        "lex": 75.907, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1844.1618871214473, 
+        "geo": "sen", 
+        "lex": 63.766, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 9926.973226079652, 
+        "geo": "srb", 
+        "lex": 74.315, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 18542.087467569974, 
+        "geo": "syc", 
+        "lex": 73.524, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1490.5740792829836, 
+        "geo": "sle", 
+        "lex": 46.051, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 52396.67254421793, 
+        "geo": "sgp", 
+        "lex": 82.659, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 22277.859305056252, 
+        "geo": "svk", 
+        "lex": 75.656, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 24139.521006053918, 
+        "geo": "svn", 
+        "lex": 79.895, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2119.677605619806, 
+        "geo": "slb", 
+        "lex": 68.098, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "som", 
+        "lex": 55.713, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10243.568691299542, 
+        "geo": "zaf", 
+        "lex": 57.631, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2804.9340859426206, 
+        "geo": "sds", 
+        "lex": 56.412, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 26750.293781584613, 
+        "geo": "esp", 
+        "lex": 82.388, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6133.852369500166, 
+        "geo": "lka", 
+        "lex": 74.642, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2921.0814534341234, 
+        "geo": "sdn", 
+        "lex": 62.422, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 9870.05148436297, 
+        "geo": "sur", 
+        "lex": 71.446, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4834.72806748264, 
+        "geo": "swz", 
+        "lex": 48.942, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 35820.1363865165, 
+        "geo": "swe", 
+        "lex": 82.079, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 38871.66660364815, 
+        "geo": "che", 
+        "lex": 82.876, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "syr", 
+        "lex": 74.817, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2205.1287393162393, 
+        "geo": "tjk", 
+        "lex": 67.517, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1538.6088331716637, 
+        "geo": "tza", 
+        "lex": 62.46, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 9575.933599246742, 
+        "geo": "tha", 
+        "lex": 74.765, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4304.086490990798, 
+        "geo": "tls", 
+        "lex": 68.462, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1068.9992144498895, 
+        "geo": "tgo", 
+        "lex": 57.182, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 5122.885437108879, 
+        "geo": "ton", 
+        "lex": 72.991, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 18194.241060251956, 
+        "geo": "tto", 
+        "lex": 70.072, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 8365.623973501271, 
+        "geo": "tun", 
+        "lex": 76.338, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 10032.62176905383, 
+        "geo": "tur", 
+        "lex": 75.881, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 9436.94220219331, 
+        "geo": "tkm", 
+        "lex": 65.753, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1352.4187099094079, 
+        "geo": "uga", 
+        "lex": 60.054, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 6901.395941056901, 
+        "geo": "ukr", 
+        "lex": 68.742, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 32393.584537714305, 
+        "geo": "are", 
+        "lex": 77.18, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 31812.764465545974, 
+        "geo": "gbr", 
+        "lex": 80.853, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 44733.99026004918, 
+        "geo": "usa", 
+        "lex": 79.235, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 14645.82305587572, 
+        "geo": "ury", 
+        "lex": 77.528, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3633.060917330184, 
+        "geo": "uzb", 
+        "lex": 68.484, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 4164.96239158679, 
+        "geo": "vut", 
+        "lex": 72.169, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 11669.853949230965, 
+        "geo": "ven", 
+        "lex": 74.948, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "pse", 
+        "lex": 73.562, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "esh", 
+        "lex": 68.301, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 3459.92345014579, 
+        "geo": "vnm", 
+        "lex": 76.247, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "geo": "vir", 
+        "lex": 80.599, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 2194.4090338777064, 
+        "geo": "yem", 
+        "lex": 63.475, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 1809.3473986325841, 
+        "geo": "zmb", 
+        "lex": 59.853, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "WPP (2012)", 
+        "dim": "geo-time", 
+        "gdp": 617.9774815989589, 
+        "geo": "zwe", 
+        "lex": 62.017, 
+        "time": 2015.0, 
+        "version": "6.0"
+    }, 
+    {
+        "Source": "IMF (2013)", 
+        "dim": "geo-time", 
+        "gdp": 10688.321115815697, 
+        "geo": "dma", 
+        "time": 2015.0, 
+        "version": "14.0"
+    }, 
+    {
+        "Source": "IMF (2013)", 
+        "dim": "geo-time", 
+        "gdp": 6340.957633535962, 
+        "geo": "mhl", 
+        "time": 2015.0, 
+        "version": "14.0"
+    }, 
+    {
+        "Source": "IMF (2013)", 
+        "dim": "geo-time", 
+        "gdp": 12958.391382651856, 
+        "geo": "kna", 
+        "time": 2015.0, 
+        "version": "14.0"
+    }, 
+    {
+        "Source": "IMF (2013)", 
+        "dim": "geo-time", 
+        "gdp": 36222.35088503684, 
+        "geo": "twn", 
+        "time": 2015.0, 
+        "version": "14.0"
+    }
+]

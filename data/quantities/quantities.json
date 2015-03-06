@@ -1,0 +1,13 @@
+[
+{"-t-ind":"case_cumulative","-t-name":"Cases cumulative","-t-types":"{count:CUMULATIVE}"},
+{"-t-ind":"cases_incidence_week","-t-name":"Cases incidence week","-t-types":"{count:INCIDENCE,time:Week}"},
+{"-t-ind":"deaths_cumulative","-t-name":"Deaths cumulative","-t-types":"{}"},
+{"-t-ind":"deaths_incidence_week","-t-name":"Deaths incidence week","-t-types":"{}"},
+{"-t-ind":"poverty_rate","-t-name":"Poverty rate","-t-types":"{}"},
+{"-t-ind":"pop","-t-name":"Population","-t-types":"{}"},
+{"-t-ind":"gdp_per_cap","-t-name":"Gross National Product per Capita","-t-types":"{}"},
+{"-t-ind":"gdp","-t-name":"Gross National Product","-t-types":"{}"},
+{"-t-ind":"lex","-t-name":"Life Expectancy at birth","-t-types":"{}"},
+{"-t-ind":"lat","-t-name":"Latitude","-t-types":"{}"},
+{"-t-ind":"long","-t-name":"Longitude","-t-types":"{}"}
+]
