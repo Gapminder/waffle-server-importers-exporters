@@ -1,17 +1,18 @@
-import numpy
 import requests
+import json
 
 
 def write(url, data, name, version):
-    datum = numpy.asarray(data)
-    post_data = {
+
+    payload = json.dumps({
         'key': 'superSecretToken',
         'collection': 'waffle/examples/humnum_custom_scripts/' + name,
         'version': version,
         'name': "examples/humnum_custom_scripts",
-        "data": datum
-    }
+        'data': data
+    })
 
-    r = requests.post(url, data=post_data)
+    headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
+    r = requests.post(url, data=payload, headers=headers)
     print "POST for Name:", name, ", Version:", version, r.text
 

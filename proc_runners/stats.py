@@ -16,12 +16,12 @@ version = str(time_now.tm_year) + '-' + str(time_now.tm_mon) + '-' + str(time_no
 
 def push_stats():
     results = procedures.merge.merge(pop.cal_pop() + lex.cal_lex() + gdp.cal_gdp())
-    writers.json_remote.write(url, results, 'stats', version)
+    writers.json_remote.write(url, results, 'stats/geo_time', version)
 
 
 def push_entities():
     results = readers.json_reader.read('../data/entities/entities-geo.json')
-    writers.json_remote.write(url, results, 'entities', version)
+    writers.json_remote.write(url, results, 'entities/geo', version)
 
 
 def push_dimensions():
