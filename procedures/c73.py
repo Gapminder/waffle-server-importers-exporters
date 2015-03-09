@@ -11,7 +11,9 @@ def cal_pop_country_values(pop_list, col_map, value_key_num):
 
         if pop_list.cell_value(rowx=r_num, colx=value_key_num) != "":
             for col_key in col_map:
-                if type(col_map[col_key]) is IntType:
+                if col_key == 'Year':
+                    country[col_key] = str(int(pop_list.cell_value(rowx=r_num, colx=col_map[col_key])))
+                elif type(col_map[col_key]) is IntType:
                     country[col_key] = pop_list.cell_value(rowx=r_num, colx=col_map[col_key])
                 else:
                     country[col_key] = col_map[col_key]

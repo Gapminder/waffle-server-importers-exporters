@@ -15,13 +15,11 @@ def cal_gdp():
     lex_list = read[0]
     read_map = read[1]
 
-    gdp_version = 14.0
     col_val = 2
     filter_columns = ['GDP per capita - with interpolations', 'Year', 'Area', 'Source']
     read_columns = {c_key: read_map[c_key] for c_key in filter_columns}
-    const = {'dim': 'geo-time', 'version': str(gdp_version)}
 
-    column_mapping = dict(read_columns.items() + const.items())
+    column_mapping = dict(read_columns.items())
 
     gdp = procedures.c73.cal_pop_country_values(lex_list, column_mapping, col_val)
     world_gdp = procedures.c74.cal_world_pop(gdp, column_mapping, col_val)

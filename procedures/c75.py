@@ -35,7 +35,7 @@ def get_pop_for_region(min_year, max_year, regions_list, region_id, column_map, 
             if type(column_map[column_key]) is str:
                 reg_pop[column_key] = column_map[column_key]
             elif column_key == 'Year':
-                reg_pop['Year'] = year
+                reg_pop['Year'] = str(year)
             elif column_key == 'Area':
                 reg_pop['Area'] = region_id
             elif column_key == col_val:

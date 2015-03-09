@@ -19,9 +19,8 @@ def cal_pop():
     col_val = 3
     filter_columns = ['Population', 'Population with interpolations', 'Year', 'Area', 'Source']
     read_columns = {c_key: read_map[c_key] for c_key in filter_columns}
-    const = {'dim': 'geo-time', 'version': str(pop_version)}
 
-    column_mapping = dict(read_columns.items() + const.items())
+    column_mapping = dict(read_columns.items())
 
     pop = procedures.c73.cal_pop_country_values(pop_list, column_mapping, col_val)
     world_pop = procedures.c74.cal_world_pop(pop, column_mapping, col_val)

@@ -13,13 +13,11 @@ def cal_lex():
     lex_list = read[0]
     read_map = read[1]
 
-    lex_version = 6.0
     col_val = 3
     filter_columns = ['Life expectancy at birth - with interpolations', 'Year', 'Area', 'Source']
     read_columns = {c_key: read_map[c_key] for c_key in filter_columns}
-    const = {'dim': 'geo-time', 'version': str(lex_version)}
 
-    column_mapping = dict(read_columns.items() + const.items())
+    column_mapping = dict(read_columns.items())
 
     lex = procedures.c73.cal_pop_country_values(lex_list, column_mapping, col_val)
     world_lex = procedures.c74.cal_world_pop(lex, column_mapping, col_val)

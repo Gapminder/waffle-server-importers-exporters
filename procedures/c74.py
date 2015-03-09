@@ -22,7 +22,7 @@ def cal_world_pop(pop, col_map, col_key):
             if type(col_map[column_key]) is str:
                 year_pop[column_key] = col_map[column_key]
             elif column_key == 'Year':
-                year_pop['Year'] = year
+                year_pop['Year'] = str(year)
             elif column_key == col_val:
                 year_pop[col_val] = pop_per_year_sum
             elif column_key == 'Area':
