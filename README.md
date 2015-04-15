@@ -1,9 +1,9 @@
-Waffle Push Custom Scripts
-------------
+#Waffle Importers/Exporters 
+
 ## Introduction
 
-Python scripts that transform data and push it onto waffle server. This project is independent from data kitchen project, 
-however computations logic is similar.
+Python scripts that transform data and imports/exports into/onto waffle server. This project is independent from data kitchen project, 
+however some computational procedures are similar in terms of logic.
   
 ##Modules
 ###Data
