@@ -45,7 +45,7 @@ def write_indicator_file(ind_id, entity_names):
             all_min_year.append(min_time)
             all_max_year.append(max_time)
 
-            country = util.name_match.set_name_match_val(country, entity_names)
+            country = util.name_match.set_name_match_val(country, entity_names, 13)
 
             delimiter = ','
             seq = (country, str(min_value), str(max_value), str(min_time))

@@ -6,9 +6,9 @@ def write(url, data, name, version):
 
     payload = json.dumps({
         'key': 'superSecretToken',
-        'collection': 'waffle/examples/humnum_custom_scripts/' + name,
+        'collection': 'waffle/examples/wsie/' + name,
         'version': version,
-        'name': "examples/humnum_custom_scripts",
+        'name': "examples/wsie",
         'data': data
     })
 
