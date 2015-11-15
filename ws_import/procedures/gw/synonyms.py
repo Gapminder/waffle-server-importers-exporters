@@ -4,7 +4,8 @@ import readers.excel
 
 
 def get_entity_synonyms():
-    country_synonym_list = readers.excel.read('../../data/synonym/country_synonyms.xlsx', 0, None)
+    #country_synonym_list = readers.excel.read('.../data/synonym/country_synonyms.xlsx', 0, None)
+    country_synonym_list = readers.excel.read('/Users/amir/dev/projects/waffle-import-export/data/synonym/country_synonyms.xlsx', 0, None)
     country_synonym = country_synonym_list[0]
     entity_names = [[0 for x in range(0, country_synonym.ncols)] for x in range(1, country_synonym.nrows)]
 

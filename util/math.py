@@ -1,3 +1,4 @@
+# TODO: rename the function
 def empty(value):
     try:
         value = float(value)

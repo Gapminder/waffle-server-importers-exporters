@@ -1,24 +1,39 @@
-import ast
-import requests
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import ast;import requests
 import util.name_match
 import writers.xml_local
 import ws_export.indic
+import readers.json_reader
+import readers.excel
+import ws_export.util.name_match
+import collections
 
 from lxml import etree
 
 
+
+def hard_code_entity(area):
+    a = etree.Element('a')
+    a.set('id', unicode(area['id']))
+    a.set('n', unicode(area['name']))
+
+    return a
+
 def write_overview_indicator(entity_names):
-    # TODO: Change Query to following once importers are in place
+    # TODO: Change To Query When Waffle Server is Ready
     # data = {'query': '[{"SELECT": ["*"], "WHERE": {"quantity": ["*"]}, "FROM": "humnum"}]', 'lang': 'en'}
-    data = {'query': '[{"SELECT": ["*"], "WHERE": {"quantity": ["pop"]}, "FROM": "humnum"}]', 'lang': 'en'}
-    r = requests.post('https://waffle.gapminder.org/api/v1/query', data=data)
+    # data = {'query': '[{"SELECT": ["*"], "WHERE": {"quantity": ["pop"]}, "FROM": "humnum"}]', 'lang': 'en'}
+    # r = requests.post('https://waffle.gapminder.org/api/v1/query', data=data)
+    # ind_response = ast.literal_eval(r.content)
 
     root = etree.Element('metadata')
 
     map_properties = etree.Element('mapProperties')
     root.append(map_properties)
 
-    map_properties.set('ImageFile', 'http://www.gapminder.org/GapminderMedia/wp-uploads/gapminder_world/gw-map.jpg')
+    map_properties.set('imageFile', 'http://www.gapminderdev.org/GapminderMedia/wp-uploads/gapminder-world/map.jpg')
     map_properties.set('timeDisplayX', '0')
     map_properties.set('timeDisplayY', '0')
     map_properties.set('scaleImage', 'true')
@@ -34,36 +49,155 @@ def write_overview_indicator(entity_names):
 
     indicators = etree.Element('indicators')
 
-    ind_response = ast.literal_eval(r.content)
+    ind_responses = readers.json_reader.read('../data/out/gw/meta/quantities.json')
 
-    for ind in ind_response[0]:
+    for ind in ind_responses:
         ws_export.indic.write_indicator_file(ind['-t-ind'], entity_names)
 
         i = etree.Element('i')
         i.set('id', ind['-t-ind'])
         i.set('displayName', ind['-t-name'])
+        #TODO: change this to the actual name
         i.set('originalName', ind['-t-name'])
         indicators.append(i)
 
     root.append(indicators)
 
-    entity_data = {'query': '[{"SELECT": ["*"],"WHERE": {"geo": "*", "geo.cat": ["country"]}, "FROM": "humnum"}]', 'lang': 'en'}
+    # TODO: Remove this after Waffle Server Integration
+    # entity_data = {'query': '[{"SELECT": ["*"],"WHERE": {"geo": "*", "geo.cat": ["country"]}, "FROM": "humnum"}]', 'lang': 'en'}
+    # r = requests.post('https://waffle.gapminder.org/api/v1/query', data=entity_data)
+    # area_response = ast.literal_eval(r.content)
 
-    r = requests.post('https://waffle.gapminder.org/api/v1/query', data=entity_data)
+    area_sheet = readers.excel.read('../data/synonym/country_synonyms.xlsx', 0, None)[0]
+    area_response = []
 
-    area_response = ast.literal_eval(r.content)
+    for rox in range(1, area_sheet.nrows):
+        #entity_name = area_sheet.cell_value(rowx=rox, colx=1).encode('UTF-8')
+        #entity_id = area_sheet.cell_value(rowx=rox, colx=13).encode('UTF-8')
+        entity_name = area_sheet.cell_value(rowx=rox, colx=1)
+        entity_id = area_sheet.cell_value(rowx=rox, colx=13)
+
+
+        if entity_name and entity_id:
+            area_o = {'name': entity_name, 'id': entity_id}
+            area_response.append(area_o)
 
     areas = etree.Element('areas')
-    for area in area_response[0]:
-        country = util.name_match.set_name_match_val(area['id'], entity_names)
+    area_response.append({'id': 'i263', 'name': 'America'})
+    area_response.append(({'id': 'i279', 'name': 'Christian'}))
+    area_response.append({'id': 'i270', 'name': 'Coastline'})
+    area_response.append({'id': 'i265', 'name': 'East Asia &amp; Pacific'})
+    area_response.append({'id': 'i281', 'name': 'Eastern religions'})
+    area_response.append({'id': 'i264', 'name': 'Europe &amp; Central Asia'})
+    area_response.append({'id': 'i272', 'name': 'G77'})
+    area_response.append({'id': 'i268', 'name': 'High income'})
+    area_response.append({'id': 'i271', 'name': 'Landlocked'})
+    area_response.append({'id': 'i266', 'name': 'Low income'})
+    area_response.append({'id': 'i269', 'name': 'Lower middle income'})
+    area_response.append({'id': 'i262', 'name': 'Middle East &amp; North Africa'})
+    area_response.append({'id': 'i273', 'name': 'OECD'})
 
+    area_response.append({'id': 'i274', 'name': 'Others'})
+    area_response.append({'id': 'i261', 'name': 'South Asia'})
+    #area_response.append({'id': 'i259', 'name': 'South Sudan'})
+    area_response.append({'id': 'i260', 'name': 'Sub-Saharan Africa'})
+    area_response.append({'id': 'i267', 'name': 'Upper middle income'})
+    area_response.append({'id':  'i280', 'name': 'Muslim'})
+
+    area_response.append({'id': 'i277', 'name': '[Africa]'})
+    area_response.append({'id': 'i278', 'name': '[America]'})
+    area_response.append({'id': 'i276', 'name': '[Asia]'})
+    area_response.append({'id': 'i275', 'name': '[Europe]'})
+
+    area_response_sorted = sorted(area_response, key=lambda area: area['name'])
+
+    for area in area_response_sorted:
         a = etree.Element('a')
-        a.set('id', country)
-
-        name = area["name"].decode(encoding='UTF-8', errors='strict')
-        a.set('n', name)
+        # a.set('id', area['id'].decode('UTF-8'))
+        # a.set('n', area['name'].decode('UTF-8'))
+        a.set('id', unicode(area['id']))
+        a.set('n', unicode(area['name']))
 
         areas.append(a)
 
+    # areas.append(hard_code_entity({'id': 'i263', 'name': 'America'}))
+    # areas.append(hard_code_entity({'id': 'i279', 'name': 'Christian'}))
+    # areas.append(hard_code_entity({'id': 'i270', 'name': 'Coastline'}))
+    # areas.append(hard_code_entity({'id': 'i265', 'name': 'East Asia &amp; Pacific'}))
+    # areas.append(hard_code_entity({'id': 'i281', 'name': 'Eastern religions'}))
+    # areas.append(hard_code_entity({'id': 'i264', 'name': 'Europe &amp; Central Asia'}))
+    # areas.append(hard_code_entity({'id': 'i272', 'name': 'G77'}))
+    # areas.append(hard_code_entity({'id': 'i268', 'name': 'High income'}))
+    # areas.append(hard_code_entity({'id': 'i271', 'name': 'Landlocked'}))
+    # areas.append(hard_code_entity({'id': 'i266', 'name': 'Low income'}))
+    # areas.append(hard_code_entity({'id': 'i269', 'name': 'Lower middle income'}))
+    # areas.append(hard_code_entity({'id': 'i262', 'name': 'Middle East &amp; North Africa'}))
+    # areas.append(hard_code_entity({'id': 'i273', 'name': 'OECD'}))
+    #
+    # areas.append(hard_code_entity({'id': 'i274', 'name': 'Others'}))
+    # areas.append(hard_code_entity({'id': 'i261', 'name': 'South Asia'}))
+    # areas.append(hard_code_entity({'id': 'i259', 'name': 'South Sudan'}))
+    # areas.append(hard_code_entity({'id': 'i260', 'name': 'Sub-Saharan Africa'}))
+    # areas.append(hard_code_entity({'id': 'i267', 'name': 'Upper middle income'}))
+    # areas.append(hard_code_entity({'id':  'i280', 'name': 'Muslim'}))
+    #
+    # areas.append(hard_code_entity({'id': 'i277', 'name': '[Africa]'}))
+    # areas.append(hard_code_entity({'id': 'i278', 'name': '[America]'}))
+    # areas.append(hard_code_entity({'id': 'i276', 'name': '[Asia]'}))
+    # areas.append(hard_code_entity({'id': 'i275', 'name': '[Europe]'}))
+
     root.append(areas)
-    writers.xml_local.write(root, '../data/out/gw/overview.xml')
+
+    area_cat = readers.json_reader.read('../data/out/gw/meta/area_categorizarion.json')
+
+    for cat in area_cat:
+        areas = etree.Element('areaCategorization')
+        areas.set('id', cat['id'])
+        areas.set('n', cat['n'])
+        areas.set('a', cat['a'])
+        #areas.set('sourceName', cat['sourceName'])
+        areas.set('sourceName', cat['a'])
+        areas.set('providerUrl', cat['providerUrl'])
+        areas.set('dataCollectionUrl', cat['dataCollectionUrl'])
+
+
+        keylist = cat['groupings'].keys()
+        keylist.sort()
+
+        #for reg in cat['groupings']:
+        #    c = etree.Element('c')
+        #    c.set('id', reg)
+        #    c.set('areas', ','.join(cat['groupings'][reg]))
+        #    areas.append(c)
+        #root.append(areas)
+
+        for key in keylist:
+            c = etree.Element('c')
+            c.set('id', key)
+            c.set('areas', ','.join(cat['groupings'][key]))
+            areas.append(c)
+        root.append(areas)
+
+
+    ind_cat = readers.json_reader.read('../data/out/gw/meta/indicator_categorizarion.json')
+
+    inds = etree.Element('indicatorCategorization')
+    inds.set('indicators', ','.join(ind_cat['indicators']))
+    for cats in ind_cat['categories']:
+        c = etree.Element('c')
+
+        c.set('n', cats)
+        c.set('id', cats)
+        if len(ind_cat['categories'][cats]['indicators']) != 0:
+            c.set('indicators', ','.join(ind_cat['categories'][cats]['indicators']))
+
+        for cat in ind_cat['categories'][cats]:
+            c_2 = etree.Element('c')
+            c_2.set('n',  cat)
+            c_2.set('id', cat)
+            c_2.set('indicators', ','.join(ind_cat['categories'][cats][cat]))
+            c.append(c_2)
+        inds.append(c)
+    root.append(inds)
+
+    writers.xml_local.write(root, '../data/out/gw/xml/overview.xml')
