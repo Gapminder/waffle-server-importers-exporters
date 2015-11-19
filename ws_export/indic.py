@@ -11,17 +11,9 @@ import readers.excel
 
 
 def write_indicator_file(ind_id, entity_names):
-    # data = {"query": '[{"SELECT": ["geo", "geo.name", "time", "' + ind_id + '"],"WHERE": {"geo": ["*"], "time":"1800-2015"},"FROM": "humnum"}]',"lang": "en"}
-    # r = requests.post('https://waffle.gapminder.org/api/v1/query', data=data)
-    # ind_response = ast.literal_eval(r.content)
-    # test: ind_id="tjFf_YqwB6tgSG9L0r0Ywdg"
     print ind_id
     ind_response = readers.json_reader.read('../data/out/gw/indicators/' + str(ind_id) + '.json')
-    #TODO: have to move to importers
-    #TODO: have to move to importers
-    #TODO: have to move to importers
     synonym_map = readers.json_reader.read('../data/synonym/synonym_map.json')
-
 
     root = etree.Element('indicator')
     root.set('id', ind_id)
@@ -171,15 +163,7 @@ country_synonym_list = readers.excel.read('../data/synonym/country_synonyms.xlsx
 country_synonym = country_synonym_list[0]
 entity_names = [[0 for x in range(0, country_synonym.ncols)] for x in range(1, country_synonym.nrows)]
 
-#write_indicator_file("0AkBd6lyS3EmpdHVuNVpKdnNCa08yV3NOd0Zsal9JaWc", entity_names)
-#write_indicator_file("tUSeGJOQhafugwUvHvY-wLA", entity_names)
-#write_indicator_file("pp59adS3CHWeB1N1HlpFQVQ", entity_names)
-#write_indicator_file("0ArfEDsV3bBwCdFdaNHA3R1BzcG9GSlkwMXdnMHpScVE", entity_names)
-#write_indicator_file("tKOphM3UPRd94T6C6pmsuXw", entity_names)
-#write_indicator_file("phAwcNAVuyj0TAlJeCEzcGQ", entity_names)
-#write_indicator_file("rtESPUlrTyLEoHpURqE8RAg", entity_names)
-#write_indicator_file("rsCDusOObseaoBUdarzw7Kw", entity_names)
-#write_indicator_file("0AkBd6lyS3EmpdHo5S0J6ekhVOF9QaVhod05QSGV4T3c", entity_names)
-write_indicator_file("0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", entity_names)
-# TODO: write_indicator_file("tK87SOy-oZlfW99UDD7L3hw", entity_names)
+
+#UNCOMMENT HERE: write_indicator_file("0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", entity_names)
+
 

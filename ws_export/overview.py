@@ -22,12 +22,6 @@ def hard_code_entity(area):
     return a
 
 def write_overview_indicator(entity_names):
-    # TODO: Change To Query When Waffle Server is Ready
-    # data = {'query': '[{"SELECT": ["*"], "WHERE": {"quantity": ["*"]}, "FROM": "humnum"}]', 'lang': 'en'}
-    # data = {'query': '[{"SELECT": ["*"], "WHERE": {"quantity": ["pop"]}, "FROM": "humnum"}]', 'lang': 'en'}
-    # r = requests.post('https://waffle.gapminder.org/api/v1/query', data=data)
-    # ind_response = ast.literal_eval(r.content)
-
     root = etree.Element('metadata')
 
     map_properties = etree.Element('mapProperties')
@@ -57,23 +51,15 @@ def write_overview_indicator(entity_names):
         i = etree.Element('i')
         i.set('id', ind['-t-ind'])
         i.set('displayName', ind['-t-name'])
-        #TODO: change this to the actual name
         i.set('originalName', ind['-t-name'])
         indicators.append(i)
 
     root.append(indicators)
 
-    # TODO: Remove this after Waffle Server Integration
-    # entity_data = {'query': '[{"SELECT": ["*"],"WHERE": {"geo": "*", "geo.cat": ["country"]}, "FROM": "humnum"}]', 'lang': 'en'}
-    # r = requests.post('https://waffle.gapminder.org/api/v1/query', data=entity_data)
-    # area_response = ast.literal_eval(r.content)
-
     area_sheet = readers.excel.read('../data/synonym/country_synonyms.xlsx', 0, None)[0]
     area_response = []
 
     for rox in range(1, area_sheet.nrows):
-        #entity_name = area_sheet.cell_value(rowx=rox, colx=1).encode('UTF-8')
-        #entity_id = area_sheet.cell_value(rowx=rox, colx=13).encode('UTF-8')
         entity_name = area_sheet.cell_value(rowx=rox, colx=1)
         entity_id = area_sheet.cell_value(rowx=rox, colx=13)
 
@@ -99,7 +85,6 @@ def write_overview_indicator(entity_names):
 
     area_response.append({'id': 'i274', 'name': 'Others'})
     area_response.append({'id': 'i261', 'name': 'South Asia'})
-    #area_response.append({'id': 'i259', 'name': 'South Sudan'})
     area_response.append({'id': 'i260', 'name': 'Sub-Saharan Africa'})
     area_response.append({'id': 'i267', 'name': 'Upper middle income'})
     area_response.append({'id':  'i280', 'name': 'Muslim'})
@@ -113,38 +98,10 @@ def write_overview_indicator(entity_names):
 
     for area in area_response_sorted:
         a = etree.Element('a')
-        # a.set('id', area['id'].decode('UTF-8'))
-        # a.set('n', area['name'].decode('UTF-8'))
         a.set('id', unicode(area['id']))
         a.set('n', unicode(area['name']))
 
         areas.append(a)
-
-    # areas.append(hard_code_entity({'id': 'i263', 'name': 'America'}))
-    # areas.append(hard_code_entity({'id': 'i279', 'name': 'Christian'}))
-    # areas.append(hard_code_entity({'id': 'i270', 'name': 'Coastline'}))
-    # areas.append(hard_code_entity({'id': 'i265', 'name': 'East Asia &amp; Pacific'}))
-    # areas.append(hard_code_entity({'id': 'i281', 'name': 'Eastern religions'}))
-    # areas.append(hard_code_entity({'id': 'i264', 'name': 'Europe &amp; Central Asia'}))
-    # areas.append(hard_code_entity({'id': 'i272', 'name': 'G77'}))
-    # areas.append(hard_code_entity({'id': 'i268', 'name': 'High income'}))
-    # areas.append(hard_code_entity({'id': 'i271', 'name': 'Landlocked'}))
-    # areas.append(hard_code_entity({'id': 'i266', 'name': 'Low income'}))
-    # areas.append(hard_code_entity({'id': 'i269', 'name': 'Lower middle income'}))
-    # areas.append(hard_code_entity({'id': 'i262', 'name': 'Middle East &amp; North Africa'}))
-    # areas.append(hard_code_entity({'id': 'i273', 'name': 'OECD'}))
-    #
-    # areas.append(hard_code_entity({'id': 'i274', 'name': 'Others'}))
-    # areas.append(hard_code_entity({'id': 'i261', 'name': 'South Asia'}))
-    # areas.append(hard_code_entity({'id': 'i259', 'name': 'South Sudan'}))
-    # areas.append(hard_code_entity({'id': 'i260', 'name': 'Sub-Saharan Africa'}))
-    # areas.append(hard_code_entity({'id': 'i267', 'name': 'Upper middle income'}))
-    # areas.append(hard_code_entity({'id':  'i280', 'name': 'Muslim'}))
-    #
-    # areas.append(hard_code_entity({'id': 'i277', 'name': '[Africa]'}))
-    # areas.append(hard_code_entity({'id': 'i278', 'name': '[America]'}))
-    # areas.append(hard_code_entity({'id': 'i276', 'name': '[Asia]'}))
-    # areas.append(hard_code_entity({'id': 'i275', 'name': '[Europe]'}))
 
     root.append(areas)
 
@@ -155,7 +112,6 @@ def write_overview_indicator(entity_names):
         areas.set('id', cat['id'])
         areas.set('n', cat['n'])
         areas.set('a', cat['a'])
-        #areas.set('sourceName', cat['sourceName'])
         areas.set('sourceName', cat['a'])
         areas.set('providerUrl', cat['providerUrl'])
         areas.set('dataCollectionUrl', cat['dataCollectionUrl'])
@@ -163,13 +119,6 @@ def write_overview_indicator(entity_names):
 
         keylist = cat['groupings'].keys()
         keylist.sort()
-
-        #for reg in cat['groupings']:
-        #    c = etree.Element('c')
-        #    c.set('id', reg)
-        #    c.set('areas', ','.join(cat['groupings'][reg]))
-        #    areas.append(c)
-        #root.append(areas)
 
         for key in keylist:
             c = etree.Element('c')

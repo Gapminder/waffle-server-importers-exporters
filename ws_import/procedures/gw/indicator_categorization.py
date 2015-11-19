@@ -3,16 +3,7 @@ import readers.excel
 
 def get(callback):
     indicator_categorization = {'indicators': [], 'categories': {}}
-    # TODO: REFACTOR this for tests
     indicators = readers.excel.read('../../data/meta/graph_settings.xlsx', None, 'Indicators')[0]
-    # TODO: remove
-
-    #callback(indicator_url="http://spreadsheets.google.com/pub?key=pp59adS3CHWeB1N1HlpFQVQ", indicator_id="pp59adS3CHWeB1N1HlpFQVQ")
-    #callback(indicator_url="http://spreadsheets.google.com/pub?key=tUSeGJOQhafugwUvHvY-wLA", tUSeGJOQhafugwUvHvY")
-    #callback(indicator_url="http://spreadsheets.google.com/pub?key=0AgogXXPMARyldC1rcTI5OU50Mnc1djdkNXpnWUFrZmc	", indicator_id="0AgogXXPMARyldC1rcTI5OU50Mnc1djdkNXpnWUFrZmc")
-    #callback(indicator_url="http://spreadsheets.google.com/pub?key=phAwcNAVuyj0TAlJeCEzcGQ", indicator_id="phAwcNAVuyj0TAlJeCEzcGQ")
-    #callback(indicator_url="http://spreadsheets.google.com/pub?key=tvllZwGIbhwxLD7EXFhPeXQ", indicator_id="tvllZwGIbhwxLD7EXFhPeXQ")
-    #callback(indicator_url="http://spreadsheets.google.com/pub?key=tvllZwGIbhwxLD7EXFhPeXQ", indicator_id="t9SYWh7siLJDzyZYN1R4HfQ")
 
     for rx in range(1, indicators.nrows):
         indicator_url = indicators.cell_value(rowx=rx, colx=4)
