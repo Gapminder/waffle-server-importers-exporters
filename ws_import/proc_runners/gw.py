@@ -43,7 +43,7 @@ print 'indicator categorization:' + str(time.gmtime())
 indicator_categorization = ws_import.procedures.gw.indicator_categorization.get(ws_import.procedures.gw.indicators.write_indicators)
 writers.json_local.write('data/out/gw/meta/', 'indicator_categorizarion', indicator_categorization)
 writers.json_remote.write(url, indicator_categorization, 'meta/indcator_categorizarion', version)
-url.log.set_info('meta/indicator_categorizarion is pushed')
+util.log.set_info('meta/indicator_categorizarion is pushed')
 
 print 'dimension:' + str(time.gmtime())
 dim = ws_import.procedures.gw.dimension.get(indicators)
