@@ -21,9 +21,9 @@ def write_indicators(indicator_url, indicator_id):
 
 
     #TODO: make this check the checksum and download if changes happened
-    if not os.path.isfile('../../data/tmp/excel/' + indicator_id + '.xls'):
-        util.url.save_remote_spreadsheet(indicator_url, '../../data/tmp/excel/' + indicator_id + '.xls')
-    data_sheet = readers.excel.read('/Users/amir/dev/projects/waffle-import-export/data/tmp/excel/' + indicator_id + '.xls', None, 'Data')[0]
+    if not os.path.isfile('data/tmp/excel/' + indicator_id + '.xls'):
+        util.url.save_remote_spreadsheet(indicator_url, 'data/tmp/excel/' + indicator_id + '.xls')
+    data_sheet = readers.excel.read('data/tmp/excel/' + indicator_id + '.xls', None, 'Data')[0]
 
     non_empty_rows = []
     for rx in range(1, data_sheet.nrows):
@@ -89,7 +89,7 @@ def write_indicators(indicator_url, indicator_id):
                         indicators_data.append(data)
 
 
-    writers.json_local.write('/Users/amir/dev/projects/waffle-import-export/data/out/gw/indicators/', indicator_id, indicators_data)
+    writers.json_local.write('data/out/gw/indicators/', indicator_id, indicators_data)
 
 
 #UNCOMMENT HERE: write_indicators('http://spreadsheets.google.com/pub?key=0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc', '0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc')

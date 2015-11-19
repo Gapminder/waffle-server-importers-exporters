@@ -42,3 +42,7 @@ INFO:root:time.struct_time(tm_year=2015, tm_mon=5, tm_mday=11, tm_hour=13, tm_mi
 INFO:root:time.struct_time(tm_year=2015, tm_mon=5, tm_mday=11, tm_hour=13, tm_min=18, tm_sec=47, tm_wday=0, tm_yday=131, tm_isdst=0)  INFO:     Region i279 has following difference:    i219,i228,i212,i223,i225,i237,i230,i215,i241,i257,i251,i246
 INFO:root:time.struct_time(tm_year=2015, tm_mon=5, tm_mday=11, tm_hour=13, tm_min=18, tm_sec=47, tm_wday=0, tm_yday=131, tm_isdst=0)  INFO:     Region i280 has following difference:    i238,i222,i214,i220,i249,i243,i233,i254,i247
 INFO:root:time.struct_time(tm_year=2015, tm_mon=5, tm_mday=11, tm_hour=13, tm_min=18, tm_sec=47, tm_wday=0, tm_yday=131, tm_isdst=0)  INFO:     Region i281 has following difference:    i213,i224,i250,i221
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): waffle-server-stage.herokuapp.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /waffles/import HTTP/1.1" 503 484
+INFO:root:time.struct_time(tm_year=2015, tm_mon=11, tm_mday=19, tm_hour=15, tm_min=46, tm_sec=23, tm_wday=3, tm_yday=323, tm_isdst=0)  INFO:meta/area_categorizarion is pushed
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): waffle-server-stage.herokuapp.com

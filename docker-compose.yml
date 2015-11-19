@@ -1,0 +1,8 @@
+shell:
+  build: .
+  volumes:
+    - .:/repo:rw
+  working_dir: '/repo'
+  environment:
+    PYTHONPATH: /repo
+  command: "true"

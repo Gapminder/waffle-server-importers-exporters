@@ -12,7 +12,7 @@ def set_name_match_val(country, entity_names, dest_column):
 
 
 def set_name_match_val_region(region_name):
-    regions_synonym = readers.json_reader.read('../../data/synonym/regions.json')
+    regions_synonym = readers.json_reader.read('data/synonym/regions.json')
     for region in regions_synonym:
         if region_name in region:
             return region[region_name]

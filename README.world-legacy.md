@@ -3,8 +3,6 @@ README:
 I assume you know Python and you know to install required dependencies and etc.
 
 
-NOTE: Make sure to change the path because they are all pointer to /Users/amir in all file. Run a search in code and there are 6 of them that you need to change.
-
 There are two steps that needs to be taken in order to receive 
 First you import the google spreadsheets 
 

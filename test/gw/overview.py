@@ -5,7 +5,7 @@ import util.log
 
 class TestOverview(unittest.TestCase):
     def setUp(self):
-        self.output_overview = ET.parse('../../data/out/gw/xml/overview.xml')
+        self.output_overview = ET.parse('data/out/gw/xml/overview.xml')
         self.output_root = self.output_overview.getroot()
 
         self.test_overview = ET.parse('test_data/overview.xml')

@@ -65,7 +65,7 @@ class TestIndicators(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    indicators = readers.excel.read('../../data/meta/graph_settings.xlsx', None, 'Indicators')[0]
+    indicators = readers.excel.read('data/meta/graph_settings.xlsx', None, 'Indicators')[0]
 
     for rx in range(1, indicators.nrows):
         suite = unittest.TestSuite()
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
         logging.info('\n\nTEST RESULT FOR INDICATOR FILE:' + indicator_id)
 
-        indicator = ET.parse('../../data/out/gw/xml/' + indicator_id + '.xml')
+        indicator = ET.parse('data/out/gw/xml/' + indicator_id + '.xml')
         test_indicator = ET.parse('test_data/' + indicator_id + '.xml')
         suite.addTest(TestIndicators("test_indicator_root", indicator, test_indicator))
         suite.addTest(TestIndicators("test_indicator_data", indicator, test_indicator))

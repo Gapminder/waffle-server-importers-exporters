@@ -10,8 +10,8 @@ def get(about):
     entity_names = ws_import.procedures.gw.synonyms.get_entity_synonyms()
     area_categorization = []
     if about.cell_value(rowx=0, colx=1) == 'Gapminder World':
-        color_groups = readers.excel.read('../../data/meta/graph_settings.xlsx', None, 'Color groups')[0]
-        group_ids = readers.json_reader.read('../../data/synonym/area_id.json')
+        color_groups = readers.excel.read('data/meta/graph_settings.xlsx', None, 'Color groups')[0]
+        group_ids = readers.json_reader.read('data/synonym/area_id.json')
 
         for rx in range(1, color_groups.nrows):
             group_id = (el['id'] for el in group_ids if el['name'] == color_groups.cell_value(rx, colx=0)).next()
@@ -21,12 +21,12 @@ def get(about):
                      'sourceName': color_groups.cell_value(rx, colx=2),
                      'providerUrl': color_groups.cell_value(rx, colx=2)}
 
-            util.url.save_remote_spreadsheet(group['providerUrl'], '../../data/meta/' + group['n'] + '.xlsx')
+            util.url.save_remote_spreadsheet(group['providerUrl'], 'data/meta/' + group['n'] + '.xlsx')
 
             group['dataCollectionUrl'] = color_groups.cell_value(rowx=rx, colx=2)
             group['groupings'] = {}
 
-            groups = readers.excel.read('../../data/meta/' + group['n'] + '.xlsx', None, 'Groups')[0]
+            groups = readers.excel.read('data/meta/' + group['n'] + '.xlsx', None, 'Groups')[0]
 
             for rowx in range(1, groups.nrows):
                 group_name = ws_export.util.name_match.set_name_match_val_region(groups.cell_value(rowx=rowx, colx=1))

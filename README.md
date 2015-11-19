@@ -33,6 +33,13 @@ Readers allow you to read the files that exist in data module in *EXCEL* and *JS
 Writers write processed data in form of waffle to either local disk to to a remote server. 
 
 ###Getting Started
+
+To ensure cross-platform consistency, run the following commands in a Docker shell started by:
+
+```
+docker-compose run shell /bin/bash
+```
+
 #### Push data to waffle 
 Run the following command in the project directory to push data to Waffle Server
 

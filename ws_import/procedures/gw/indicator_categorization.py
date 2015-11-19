@@ -3,7 +3,7 @@ import readers.excel
 
 def get(callback):
     indicator_categorization = {'indicators': [], 'categories': {}}
-    indicators = readers.excel.read('../../data/meta/graph_settings.xlsx', None, 'Indicators')[0]
+    indicators = readers.excel.read('data/meta/graph_settings.xlsx', None, 'Indicators')[0]
 
     for rx in range(1, indicators.nrows):
         indicator_url = indicators.cell_value(rowx=rx, colx=4)
