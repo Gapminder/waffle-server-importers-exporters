@@ -3,10 +3,10 @@ import ws_export.util.name_match
 import readers.excel
 import writers.xml_local
 
-xcoord = ET.parse('../data/out/gw/xml/xml_latest/XCOORDS.xml')
-ycoord = ET.parse('../data/out/gw/xml/xml_latest/YCOORDS.xml')
+xcoord = ET.parse('data/out/gw/xml/xml_latest/XCOORDS.xml')
+ycoord = ET.parse('data/out/gw/xml/xml_latest/YCOORDS.xml')
 
-country_synonym_list = readers.excel.read('../data/synonym/country_synonyms.xlsx', 0, None)
+country_synonym_list = readers.excel.read('data/synonym/country_synonyms.xlsx', 0, None)
 country_synonym = country_synonym_list[0]
 entity_names = [[0 for x in range(0, country_synonym.ncols)] for x in range(1, country_synonym.nrows)]
 

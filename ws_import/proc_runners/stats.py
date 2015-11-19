@@ -19,22 +19,22 @@ version = util.util.set_timestamp()
 def push_stats():
     results = ws_import.procedures.merge.merge(pop.cal_pop() + lex.cal_lex() + gdp.cal_gdp())
     # writers.json_remote.write(url, results, 'stats/geo_time', version)
-    writers.json_local.write('../data/out/waffle', 'stats', results)
+    writers.json_local.write('data/out/waffle', 'stats', results)
 
 
 def push_entities():
-    results = readers.json_reader.read('../data/out/waffle/entities/entities-geo.json')
+    results = readers.json_reader.read('data/out/waffle/entities/entities-geo.json')
     # writers.json_remote.write(url, results, 'entities/geo', version)
-    writers.json_local.write('../data/out/waffle', 'entities', results)
+    writers.json_local.write('data/out/waffle', 'entities', results)
 
 
 def push_dimensions():
-    results = readers.json_reader.read('../data/out/waffle/dimensions/dimensions.json')
+    results = readers.json_reader.read('data/out/waffle/dimensions/dimensions.json')
     # writers.json_remote.write(url, results, 'dimensions', version)
-    writers.json_local.write('../data/out/waffle', 'dimensions', results)
+    writers.json_local.write('data/out/waffle', 'dimensions', results)
 
 
 def push_quantities():
-    results = readers.json_reader.read('../data/quantities/quantities.json')
+    results = readers.json_reader.read('data/quantities/quantities.json')
     # writers.json_remote.write(url, results, 'quantities', version)
-    writers.json_local.write('../data/out/waffle', 'quantities', results)
+    writers.json_local.write('data/out/waffle', 'quantities', results)

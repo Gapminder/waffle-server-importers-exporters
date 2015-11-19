@@ -12,8 +12,8 @@ import readers.excel
 
 def write_indicator_file(ind_id, entity_names):
     print ind_id
-    ind_response = readers.json_reader.read('../data/out/gw/indicators/' + str(ind_id) + '.json')
-    synonym_map = readers.json_reader.read('../data/synonym/synonym_map.json')
+    ind_response = readers.json_reader.read('data/out/gw/indicators/' + str(ind_id) + '.json')
+    synonym_map = readers.json_reader.read('data/synonym/synonym_map.json')
 
     root = etree.Element('indicator')
     root.set('id', ind_id)
@@ -155,11 +155,11 @@ def write_indicator_file(ind_id, entity_names):
         root.set('providerUrl', 'http://spreadsheets.google.com/pub?key=' + ind_id + '&gid=1')
         root.set('providerSourceName', 'Source(s)')
 
-    writers.xml_local.write(root, '../data/out/gw/xml/' + ind_id + '.xml')
-    print 'write to file: ' + '../data/out/gw/xml/' + ind_id + '.xml'
+    writers.xml_local.write(root, 'data/out/gw/xml/' + ind_id + '.xml')
+    print 'write to file: ' + 'data/out/gw/xml/' + ind_id + '.xml'
 
 
-country_synonym_list = readers.excel.read('../data/synonym/country_synonyms.xlsx', 0, None)
+country_synonym_list = readers.excel.read('data/synonym/country_synonyms.xlsx', 0, None)
 country_synonym = country_synonym_list[0]
 entity_names = [[0 for x in range(0, country_synonym.ncols)] for x in range(1, country_synonym.nrows)]
 

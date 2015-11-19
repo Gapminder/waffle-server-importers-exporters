@@ -43,7 +43,7 @@ def write_overview_indicator(entity_names):
 
     indicators = etree.Element('indicators')
 
-    ind_responses = readers.json_reader.read('../data/out/gw/meta/quantities.json')
+    ind_responses = readers.json_reader.read('data/out/gw/meta/quantities.json')
 
     for ind in ind_responses:
         ws_export.indic.write_indicator_file(ind['-t-ind'], entity_names)
@@ -56,7 +56,7 @@ def write_overview_indicator(entity_names):
 
     root.append(indicators)
 
-    area_sheet = readers.excel.read('../data/synonym/country_synonyms.xlsx', 0, None)[0]
+    area_sheet = readers.excel.read('data/synonym/country_synonyms.xlsx', 0, None)[0]
     area_response = []
 
     for rox in range(1, area_sheet.nrows):
@@ -105,7 +105,7 @@ def write_overview_indicator(entity_names):
 
     root.append(areas)
 
-    area_cat = readers.json_reader.read('../data/out/gw/meta/area_categorizarion.json')
+    area_cat = readers.json_reader.read('data/out/gw/meta/area_categorizarion.json')
 
     for cat in area_cat:
         areas = etree.Element('areaCategorization')
@@ -128,7 +128,7 @@ def write_overview_indicator(entity_names):
         root.append(areas)
 
 
-    ind_cat = readers.json_reader.read('../data/out/gw/meta/indicator_categorizarion.json')
+    ind_cat = readers.json_reader.read('data/out/gw/meta/indicator_categorizarion.json')
 
     inds = etree.Element('indicatorCategorization')
     inds.set('indicators', ','.join(ind_cat['indicators']))
@@ -149,4 +149,4 @@ def write_overview_indicator(entity_names):
         inds.append(c)
     root.append(inds)
 
-    writers.xml_local.write(root, '../data/out/gw/xml/overview.xml')
+    writers.xml_local.write(root, 'data/out/gw/xml/overview.xml')
