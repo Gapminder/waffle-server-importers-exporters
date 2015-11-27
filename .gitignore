@@ -2,6 +2,7 @@
 
 
 data/out/*
+data/meta/*
 data/out/gw/indicators/*
 data/tmp/*/*
 
