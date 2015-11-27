@@ -1,8 +1,20 @@
-README:
+README
+======
 
-I assume you know Python and you know to install required dependencies and etc.
+## Get started
 
-There are two steps that needs to be taken in order to receive 
+Check out the source code:
+
+```
+git clone -b world-legacy https://github.com/Gapminder/waffle-server-importers-exporters.git
+```
+
+To get a cross-platform Python environment with the required required dependencies installed, start the docker shell from within the repository's root folder:
+
+```
+cd waffle-server-importers-exporters
+docker-compose run shell /bin/bash
+```
 
 ## Update indicators one-by-one:
 
