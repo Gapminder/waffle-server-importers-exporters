@@ -164,6 +164,6 @@ country_synonym = country_synonym_list[0]
 entity_names = [[0 for x in range(0, country_synonym.ncols)] for x in range(1, country_synonym.nrows)]
 
 
-#UNCOMMENT HERE:
+#CHANGE INDICATOR KEY HERE:
 write_indicator_file("0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", entity_names)
 

@@ -19,31 +19,31 @@ docker-compose run shell /bin/bash
 
 ## Update indicators one-by-one:
 
-Step 1: First you import the google spreadsheets 
+### Step 1: First you import the google spreadsheets 
 
 ws_import/procedures/gw/indicators.py and change the google spreadsheet key in the following line at the end of the file:
 
 ```
-#UNCOMMENT HERE:
+#CHANGE INDICATOR KEY HERE:
 write_indicators('http://spreadsheets.google.com/pub?key=0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc', '0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc')
 ```
 
-Then run indicators.py while being in the directory and you can find the data in waffle-import-export/data/out/gw/indicators/ as 0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc.json
+Then run indicators.py (see command below) while being in the directory and you can find the data in waffle-import-export/data/out/gw/indicators/ as 0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc.json
 
 ```
 python ws_import/procedures/gw/indicators.py
 ```
 
-Step 2: Export to XML:
+### Step 2: Export to XML
 
-go to  ws_export/indic.py and change the google spreadsheet key in the following line:
+Go to ws_export/indic.py and change the google spreadsheet key in the following line:
 
 ```
-#UNCOMMENT HERE:
+#CHANGE INDICATOR KEY HERE:
 write_indicator_file("0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", entity_names)
 ```
 
-and run indic.py and the data will be in data/out/gw/xml.
+Run indic.py (see command below) and the data will be in data/out/gw/xml:
 
 ```
 python ws_export/indic.py
@@ -56,7 +56,7 @@ As you can see, the same goes with area_categorization, indicator_categorization
 * (Skip this step, it is already done in this branch of the source code) Uncomment the following line in indicator_categorization.py which is in the end of ws_import/procedures/gw/
 
 ```
-#UNCOMMENT HERE:
+#THE FOLLOWING ENABLES IMPORT OF ALL INDICATORS AT ONCE AN IS UNCOMMENTED IN THE BRANCH world-legacy:
 callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
 ```
 
@@ -85,4 +85,4 @@ ssh root@wp.gapminder.org mkdir -p /var/www/non-wordpress/communityproxy/xml-dat
 rsync --delete -avzhe ssh data/out/gw/xml/ root@wp.gapminder.org:/var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/
 ```
  
-After upload, it can loaded into memcache by visiting [http://www.gapminder.org/communityproxy/xml-data/load-into-memcache.php]().
+After upload, it can be loaded into memcache by visiting [http://www.gapminder.org/communityproxy/xml-data/load-into-memcache.php]().

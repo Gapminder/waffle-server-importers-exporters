@@ -92,5 +92,5 @@ def write_indicators(indicator_url, indicator_id):
     writers.json_local.write('data/out/gw/indicators/', indicator_id, indicators_data)
 
 
-#UNCOMMENT HERE:
+#CHANGE INDICATOR KEY HERE:
 write_indicators('http://spreadsheets.google.com/pub?key=0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc', '0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc')

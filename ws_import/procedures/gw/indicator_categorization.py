@@ -24,7 +24,7 @@ def get(callback):
             indicator_categorization['categories'][menu_level][menu_level_two].append(indicator_url[key_index:])
         else:
             indicator_categorization['categories'][menu_level][menu_level_two].append(indicator_url[key_index:])
-        #UNCOMMENT HERE:
+        #THE FOLLOWING ENABLES IMPORT OF ALL INDICATORS AT ONCE AN IS UNCOMMENTED IN THE BRANCH world-legacy:
         callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
 
 
