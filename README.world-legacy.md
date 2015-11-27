@@ -13,6 +13,7 @@ To get a cross-platform Python environment with the required required dependenci
 
 ```
 cd waffle-server-importers-exporters
+eval "$(docker-machine env default)"
 docker-compose run shell /bin/bash
 ```
 
