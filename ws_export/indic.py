@@ -165,5 +165,5 @@ entity_names = [[0 for x in range(0, country_synonym.ncols)] for x in range(1, c
 
 
 #UNCOMMENT HERE:
-#write_indicator_file("0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", entity_names)
+write_indicator_file("0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", entity_names)
 

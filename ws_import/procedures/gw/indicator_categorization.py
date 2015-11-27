@@ -25,7 +25,7 @@ def get(callback):
         else:
             indicator_categorization['categories'][menu_level][menu_level_two].append(indicator_url[key_index:])
         #UNCOMMENT HERE:
-        #callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
+        callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
 
 
     return indicator_categorization
