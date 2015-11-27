@@ -56,7 +56,7 @@ As you can see, the same goes with area_categorization, indicator_categorization
 
 ```
 #UNCOMMENT HERE:
-#callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
+callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
 ```
 
 * Run gw.py in ws_import/proc_runners. This will put all files in Ws_import/procedures/gw/ as json.
@@ -71,15 +71,16 @@ python ws_import/proc_runners/gw.py
 python ws_export/start.py
 ```
 
-done.
+## Publish the data
 
+The xml data can be uploaded to the main Gapminder.org server by running:
 
-
-
-
-
-
-
-
-
-
+```
+export DATE=$(date +"%Y-%m-%d")
+# via ssh
+scp -r data/out/gw/xml/ root@wp.gapminder.org:/var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/
+# or via rsync (faster, requires rsync to be installed both locally and on the server)
+rsync -avzh root@wp.gapminder.org:/var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/ data/out/gw/xml/
+```
+ 
+After upload, it can loaded into memcache by visiting [http://www.gapminder.org/communityproxy/xml-data/load-into-memcache.php]().
