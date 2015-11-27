@@ -26,7 +26,7 @@ url = util.config.get_value('URL', 'waffle')
 graph_settings = util.config.get_value('URL', 'graph_settings')
 version = util.util.set_timestamp()
 
-#util.url.save_remote_spreadsheet(graph_settings, 'data/meta/graph_settings.xlsx')
+util.url.save_remote_spreadsheet(graph_settings, 'data/meta/graph_settings.xlsx')
 
 # TODO: Only if the checksum is different! or put it in data/tmp folder
 about = readers.excel.read('data/meta/graph_settings.xlsx', None, 'About')[0]
