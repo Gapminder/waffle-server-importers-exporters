@@ -81,7 +81,8 @@ export DATE=$(date +"%Y-%m-%d")
 # via ssh
 scp -r data/out/gw/xml/ root@wp.gapminder.org:/var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/
 # or via rsync (faster, requires rsync to be installed both locally and on the server)
-rsync -avzh root@wp.gapminder.org:/var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/ data/out/gw/xml/
+ssh root@wp.gapminder.org mkdir -p /var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/
+rsync --delete -avzhe ssh data/out/gw/xml/ root@wp.gapminder.org:/var/www/non-wordpress/communityproxy/xml-data/$DATE/pk7kRzzfckbzz4AmH_e3DNA/
 ```
  
 After upload, it can loaded into memcache by visiting [http://www.gapminder.org/communityproxy/xml-data/load-into-memcache.php]().
