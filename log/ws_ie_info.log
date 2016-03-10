@@ -71,3 +71,6 @@ INFO:root:time.struct_time(tm_year=2015, tm_mon=11, tm_mday=19, tm_hour=16, tm_m
 INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): waffle-server-stage.herokuapp.com
 DEBUG:requests.packages.urllib3.connectionpool:"POST /waffles/import HTTP/1.1" 503 484
 INFO:root:time.struct_time(tm_year=2015, tm_mon=11, tm_mday=19, tm_hour=16, tm_min=43, tm_sec=10, tm_wday=3, tm_yday=323, tm_isdst=0)  INFO:meta/quantities is pushed
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): waffle-server-stage.herokuapp.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /waffles/import HTTP/1.1" 503 484
+INFO:root:time.struct_time(tm_year=2016, tm_mon=3, tm_mday=10, tm_hour=17, tm_min=34, tm_sec=12, tm_wday=3, tm_yday=70, tm_isdst=0)  INFO:meta/area_categorizarion is pushed

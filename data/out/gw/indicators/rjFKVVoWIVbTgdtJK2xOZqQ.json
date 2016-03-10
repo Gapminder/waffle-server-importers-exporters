@@ -1,0 +1,7222 @@
+[
+    {
+        "geo": "i4", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i4", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i4", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i5", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i8", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i9", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i10", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i12", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i12", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i13", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i14", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i15", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i15", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i15", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.8", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i15", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i15", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i16", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i18", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "77.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i18", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "73.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i18", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "48", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i18", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "60.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i19", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.2", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.4", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.2", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.9", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.4", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i21", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i22", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i25", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "51.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.7", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.8", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.8", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "15.1", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "35.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i26", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "34.8", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i27", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i28", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i28", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i28", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i28", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i28", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i28", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.4", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.8", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.4", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.8", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i29", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i31", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i32", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i32", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i32", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i32", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i32", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i32", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i33", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "89.1", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i33", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "87.3", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i35", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "59", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i35", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "53.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i36", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i36", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i37", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i38", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i41", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "44.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i43", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i47", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.9", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.3", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.9", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i52", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i54", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.8", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i56", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i57", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.6", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i59", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i61", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i61", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i61", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i61", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.5", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i62", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.2", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.3", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.6", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.9", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i64", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.8", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "33.5", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "26", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.8", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "31.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i65", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.6", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.6", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i66", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i67", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "76.5", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i68", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i70", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i71", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "63.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i71", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i71", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "68.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i71", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.7", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i74", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.1", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.1", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i75", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i76", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i79", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.3", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "40.2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "40.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "36.7", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "40.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "37.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "38.8", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "37.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i81", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "39", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.6", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.2", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.8", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.5", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.7", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i82", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "36.4", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "36.1", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "35.8", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "34", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "35.7", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "33.9", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.2", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "31.4", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.7", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.2", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "26", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.3", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.1", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "24.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.6", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.8", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i85", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i87", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i87", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i90", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "24.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i94", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i95", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.2", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.3", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.5", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i97", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i98", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i99", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.7", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i100", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i102", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "36.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i102", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "41.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i102", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "38.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i102", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "37.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i102", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "34.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i102", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "33.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i103", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i103", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "36.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i103", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i105", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i107", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.1", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.8", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.2", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.5", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.1", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.5", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.2", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.7", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.1", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.5", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.3", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.1", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.4", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.9", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.8", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.7", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i108", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.5", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i109", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.9", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.3", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.8", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.3", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.4", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.3", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.6", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.7", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.7", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "15.5", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.3", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.1", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.6", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.6", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i110", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.3", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i113", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i113", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i113", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i113", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "37.4", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "38.2", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "36.4", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "33.9", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.5", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30.6", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29.2", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.4", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.3", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.6", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "24.5", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.7", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.8", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.5", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.7", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i117", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i120", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "15.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i120", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.7", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i120", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i120", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i120", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i121", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "37.6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.7", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i122", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i124", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.9", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i128", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i130", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i132", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "41.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i132", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "51.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i132", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "73", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.4", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.7", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i134", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.8", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i135", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.6", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i135", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.1", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i135", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i136", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "72", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i136", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i137", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i137", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i138", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.1", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.8", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i141", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.2", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.7", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "15", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.4", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i143", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i147", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "38.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i147", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "31.7", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i148", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i149", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29.3", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "54.9", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "56.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "55.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i150", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "55.3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i153", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "31.5", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i153", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i153", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i153", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i153", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i155", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i156", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i157", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i158", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i159", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i161", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i161", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i161", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i161", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i161", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.2", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.2", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.2", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.6", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.6", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.9", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.1", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i168", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "61.7", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "61.7", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "54.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "63.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "63.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "50.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "50.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "46.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "46.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.8", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "59.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i170", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "61.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.7", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i172", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i174", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i174", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i174", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i174", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i174", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.7", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i174", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.2", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.9", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.3", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.2", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.7", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.7", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i175", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i176", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.4", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.7", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.3", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i178", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i179", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i180", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i181", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i181", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i145", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "22.9", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "24.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.7", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "26.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "23.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i183", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i184", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i185", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i188", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i188", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i189", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i191", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.7", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i194", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i195", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i197", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i198", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.7", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i198", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i198", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.6", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i198", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i202", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i203", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i204", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.3", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.9", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i205", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i209", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i209", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i209", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i209", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i209", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.6", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.5", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.6", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.9", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.1", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.2", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.3", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12.7", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "11.7", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "10.6", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "9.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.7", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.2", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "7.5", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.9", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.8", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.7", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i212", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.3", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "24.8", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "26.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "25.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.7", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i213", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.7", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i215", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i215", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i215", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i215", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i217", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i218", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.4", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.1", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.9", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.7", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "5.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i219", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.2", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i220", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "44.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i223", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.6", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i223", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "54.6", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "58.1", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "58.5", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "56.1", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "53.2", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "53.5", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "49.6", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "48.6", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "46.5", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "44.4", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "45.1", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "43.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "40.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "39.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "35.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "37.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "35.2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "31.4", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30.8", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30.5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i224", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.8", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "19.2", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "18.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "12", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i131", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "14.9", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i228", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "33.6", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.8", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.6", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "8.9", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.5", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.3", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.2", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.9", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "6", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.9", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i230", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i231", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "21.8", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i231", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "70.2", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "71.2", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "69.2", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "71.3", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "65.4", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "63.7", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "64.1", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "65", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "65.3", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "60", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "60", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "61.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "53.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "49.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "49", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "49.8", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "41.7", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "39", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i232", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "38.2", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i235", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i236", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "43.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i236", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "40.5", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i237", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.9", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.5", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i239", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.3", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1981.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1982.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.1", 
+        "time": 1983.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1984.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.8", 
+        "time": 1985.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.7", 
+        "time": 1986.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1987.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1988.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.6", 
+        "time": 1989.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.5", 
+        "time": 1992.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.4", 
+        "time": 1993.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.2", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i240", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.1", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.4", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.2", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.4", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i241", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.4", 
+        "time": 1995.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.5", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "2.3", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.3", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.8", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "3.9", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.8", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i246", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "1.6", 
+        "time": 2007.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "61.5", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "55.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "53.2", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "54.2", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "53.1", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.9", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "52.6", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "50.3", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i250", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "47.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "28", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "28.5", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.5", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "27.7", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "33.4", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "26.7", 
+        "time": 2001.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "29", 
+        "time": 2002.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.6", 
+        "time": 2003.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "32.2", 
+        "time": 2004.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "30.8", 
+        "time": 2005.0
+    }, 
+    {
+        "geo": "i247", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "31.5", 
+        "time": 2006.0
+    }, 
+    {
+        "geo": "i254", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "0.3", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i256", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "17.2", 
+        "time": 1980.0
+    }, 
+    {
+        "geo": "i256", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "55.7", 
+        "time": 1990.0
+    }, 
+    {
+        "geo": "i256", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "45.6", 
+        "time": 1991.0
+    }, 
+    {
+        "geo": "i256", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "43.2", 
+        "time": 1996.0
+    }, 
+    {
+        "geo": "i256", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "39.4", 
+        "time": 1998.0
+    }, 
+    {
+        "geo": "i256", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "61.8", 
+        "time": 2000.0
+    }, 
+    {
+        "geo": "i257", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "20.5", 
+        "time": 1994.0
+    }, 
+    {
+        "geo": "i257", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "15.9", 
+        "time": 1997.0
+    }, 
+    {
+        "geo": "i257", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "16.1", 
+        "time": 1999.0
+    }, 
+    {
+        "geo": "i257", 
+        "rjFKVVoWIVbTgdtJK2xOZqQ": "13.6", 
+        "time": 2002.0
+    }
+]
