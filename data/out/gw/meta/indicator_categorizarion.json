@@ -1,0 +1,731 @@
+{
+    "categories": {
+        "Economy": {
+            "Aid given": [
+                "tFOn62dEO9QCyIKK6kgSYRQ", 
+                "tGTst0WEm8V8zI9LOYvGmTg", 
+                "tQR7RhlZdPjBkVCDPPF4zUg", 
+                "tnDimTzGwU_BbmtOMHOUFFQ", 
+                "tXn3DSfvsYujaBP9bvH6acg", 
+                "tMxqFNS7BC5QyLrhBO8DXqQ", 
+                "tMjW0fdVf9VJaxVk_VFSUhg", 
+                "tBJ1rYQ-nA6fqI6_Gn3mBNg", 
+                "tQQaILpdu-vGtSkJLr2VQCw", 
+                "tRybjVoG5Ah9yhKcEx16u5Q", 
+                "tjFf_YqwB6tgSG9L0r0Ywdg", 
+                "t3IAEOsfHK-z6rvGLCDR74g", 
+                "tqjUijP4mi_dHKkCZjOn0oA"
+            ], 
+            "Aid received": [
+                "0AkBd6lyS3EmpdHVuNVpKdnNCa08yV3NOd0Zsal9JaWc", 
+                "t9GL1nIZdtxszJbjKErN2Hg", 
+                "tzK6dx2JltRfVXFI1ADh84w"
+            ], 
+            "Debt & trade": [
+                "0AkBd6lyS3EmpdDlSTTVWUkU3Z254aEhERmVuQWZaeWc", 
+                "0AkBd6lyS3EmpdC1iMVRuVUFUd08tVDM0ZDF0cnFtekE", 
+                "0AkBd6lyS3EmpdHZSTVMxaVdxQlFLR3NMbnBEWnVuTXc", 
+                "0AkBd6lyS3EmpdEhLMVdnUjZ0d05WWkhjT0FjSDIwQmc", 
+                "0AkBd6lyS3EmpdGpkU3BSVmw5UXhTMWd6UFc1eXI3Rnc", 
+                "0AkBd6lyS3EmpdEljeENrOXlFXzR3Rm8xT0drTV9YclE", 
+                "0AkBd6lyS3EmpdEZkTFJZR2RNMVFuRmUzbktyTkoxREE", 
+                "0AkBd6lyS3EmpdDJFSzRHa3g1Q29BOWlla0tTOEFyVGc", 
+                "0AkBd6lyS3EmpdEF6VzlKTzNCNjRnT0ZzMDg5a1d1Z3c", 
+                "0AkBd6lyS3EmpdFpGU185SkpmZ2V4ajNPZHFaaEwtU1E"
+            ], 
+            "Economic situation": [
+                "0AkBd6lyS3EmpdGJoOUJXalk3STFYUG85MkxlbnQxMmc", 
+                "pyj6tScZqmEejn8qHNmm4LQ", 
+                "0AkBd6lyS3EmpdG9sVVF6dHpGdnhQU3BkMlAtNHFwVkE", 
+                "0AkBd6lyS3EmpdFgzT1ZJWW4tdDB4Q2NETTVoTG1ZYlE", 
+                "0AkBd6lyS3EmpdE03VFhRMnBpMGZhQ19Vbk9pMGU5VUE", 
+                "0AkBd6lyS3EmpdHQtSzBhVXA2WTNrVDFleUZvZ0doTUE", 
+                "pyj6tScZqmEd5FA9xlfO9eA", 
+                "pyj6tScZqmEdMioz5VJKXHw", 
+                "pyj6tScZqmEe371ZVZl73eA", 
+                "rEF20Sw6Sy7tn4DKsKSDDMQ", 
+                "rdCufG2vozTpKw7TBGbyoWw", 
+                "pyj6tScZqmEfMkeuokDLVIQ"
+            ], 
+            "Incomes & growth": [
+                "pyj6tScZqmEfI4sLVvEQtHw", 
+                "0AkBd6lyS3EmpdHo5S0J6ekhVOF9QaVhod05QSGV4T3c", 
+                "rcTO3doih5lvJCjgLSvlajA", 
+                "r6kTHMinnVedj8gPsUtfZ0g", 
+                "tvllZwGIbhwxLD7EXFhPeXQ", 
+                "0ArfEDsV3bBwCdFl6cDkxcmZxM0pVNXBUYjE1ZmNqVUE", 
+                "0ArfEDsV3bBwCdFdqZ0NOdjluMmoyUTBTWTRjWWQzQVE", 
+                "0ArfEDsV3bBwCdFVrVDZQUnRwZ2lqT2lPMXcySXZwRmc", 
+                "0ArfEDsV3bBwCdGhJcHAwanc2aFdZeXl1WTVZQnJjb1E", 
+                "0Asm_G8nr4TCSdDh2NWQtVDJhYlVsTElFRjJIYkNlSnc", 
+                "1LklNUuBgFLNcGyG63kqjyze7N8_fDlNLAWZG4YKwJXc", 
+                "1tAnT0EeP67_DoOJCXb3Wd0hqjVMe0KWHPwUH22-BNmQ"
+            ], 
+            "Poverty & inequality": [
+                "tAQpQeQkuyA1-ZovdDJ7JAw", 
+                "t_KhYe1qTGh4c90N61AUDSg", 
+                "tNWhbu-1UIPPxtmRHtnINOQ", 
+                "pyj6tScZqmEcjeKHnZq6RIg", 
+                "tmKvydPl_roGIQBrMYA6C4g", 
+                "tLnCxItXzRSu9gH-5PyEFDw", 
+                "twSOUYrIFh2W2snDUt7VaQg", 
+                "t_-14NtXH6xZX48xHG75z5w", 
+                "tXRyZGCfHsWMmr53VFxrqTw", 
+                "pyj6tScZqmEdIyrBS31XAaw", 
+                "trzLWJQU4SZMDpeVg3XnL5A", 
+                "tBrbR3BlR_12WlTIlSTpu6g", 
+                "trbzCrl1eb6QJG5D8j1-qQw", 
+                "tublssyj-uqIY25OoRupbCw", 
+                "t1YAVXUoD3iJKy2mSq2Padw", 
+                "1edXplIOkF3Y5OuEWp_aVapd92-OD5aVFAPECZLgP8cA"
+            ], 
+            "Sectors": [
+                "0AkBd6lyS3EmpdFhPbDdCTTYxM1dGc21UdE9sSkp1WEE", 
+                "0AkBd6lyS3EmpdHA2UEFOYTlUTWtzV29xbHFuMU00SFE", 
+                "0AkBd6lyS3EmpdHk4eXd4RG5Rb1gtUTB0cUJ3M21qdGc"
+            ], 
+            "indicators": []
+        }, 
+        "Education": {
+            "Achievement": [
+                "phAwcNAVuyj3Iw3kqbjJTZQ", 
+                "phAwcNAVuyj3fwfA8XA25Eg"
+            ], 
+            "Gender equality": [
+                "pyj6tScZqmEcWM3hb0x-BZA", 
+                "0AkBd6lyS3EmpdE8xR0dUWDI4ME02SjQ5bi1NYnFHN0E"
+            ], 
+            "Literacy": [
+                "pyj6tScZqmEc96gAEE60-Zg", 
+                "pyj6tScZqmEd4fn4YYOvuOg", 
+                "pyj6tScZqmEdrsBnj2ROXAg", 
+                "pyj6tScZqmEf96wv_abR0OA", 
+                "pyj6tScZqmEe7OxrqKcSWfw", 
+                "pyj6tScZqmEepmgV0TLjBag"
+            ], 
+            "Mean years in school": [
+                "0ArfEDsV3bBwCdHFEVVhHZElzb0VRWE9pc3JmZHg2dWc", 
+                "0ArfEDsV3bBwCdC03X1ZWNGJHR3FBb0Q3VjJIdV9OSmc", 
+                "0ArfEDsV3bBwCdC1MYzAtY2xPQ2xOR1lMeGhYSWlpR0E", 
+                "0ArfEDsV3bBwCdHlYZHNWN1YtWVNudU9UbWJOd19nUVE", 
+                "0ArfEDsV3bBwCdEttYjNNUTlkUTdrMUQ0c3BTR0dINlE", 
+                "0ArfEDsV3bBwCdG5JUDZjTHR5SzZFZjBqa2JYYUxBclE"
+            ], 
+            "School enrolment": [
+                "0AkBd6lyS3EmpdGVSdkZnZWhfMDYybzd6U2p3NkxsZ3c", 
+                "0AkBd6lyS3EmpdFNPaEhiUDJ0QWZYOEwwQlBSTmtza1E", 
+                "0AkBd6lyS3EmpdFd5cnQzNU5IYm1vTWtrTWRIX3UxbHc", 
+                "0AkBd6lyS3EmpdEhTN2hlZ05ZczVwZDdVZlF5cUxJb2c", 
+                "0AkBd6lyS3EmpdGhCWnZrTGMwaTl5ek9QS0szMTIwcEE", 
+                "0AkBd6lyS3EmpdFVxSEVZVWE1b0l6NWo5NzNTZ2IzWVE"
+            ], 
+            "Schooling cost": [
+                "0AkBd6lyS3EmpdFJTUEVleTM0cE5jTnlTMk41ajBGclE", 
+                "0AkBd6lyS3EmpdDBuUVIzbWwtaU5helpJVG5BMmxyX1E", 
+                "0AkBd6lyS3EmpdDJxdlN6cEtYMjMxdC1XdGdKOXR2bkE"
+            ], 
+            "indicators": []
+        }, 
+        "Energy": {
+            "Coal": [
+                "0Auk0ddvGIrGqcHlqNnRTY1pxbUVjMVRtTWlGZG1PVmc", 
+                "0Auk0ddvGIrGqcHlqNnRTY1pxbUVka1hObHlPbTlmUUE"
+            ], 
+            "Electricity": [
+                "tiVeyAJd7iRWorOwl_ARWEQ", 
+                "tEu78F4acf0u6MRyhg5-9qQ", 
+                "t7SFNscT9Ex0s9i3av7PxRQ", 
+                "teUZEfKw52HewO3D0YrQ5HA", 
+                "tAwlNo30o6vVgDUk0EmDolQ", 
+                "pyj6tScZqmEehRG-9mMHYdg", 
+                "pyj6tScZqmEeMtYNdMyLKOw"
+            ], 
+            "Hydro": [
+                "t1MShlv870O6LmFNEHazdEg", 
+                "tSjVrGemv30eCh3jPZkXYCQ"
+            ], 
+            "Natural gas": [
+                "pyj6tScZqmEfv2K6dZmskWg", 
+                "pyj6tScZqmEf0IBo_AGrgKA", 
+                "pyj6tScZqmEfZd6DbNF1MKA", 
+                "pyj6tScZqmEc5qiv87tr3NA"
+            ], 
+            "Nuclear": [
+                "trRb8ZIaBOD4KzikShshZ2g", 
+                "t28UhT9IaWINamciSiJIS7w"
+            ], 
+            "Oil": [
+                "pyj6tScZqmEeUgUuvuJTONQ", 
+                "pyj6tScZqmEdNIa3ckVXaCQ", 
+                "pyj6tScZqmEfrI4YlDJDUag", 
+                "pyj6tScZqmEfJfS1WYrLeBA", 
+                "pyj6tScZqmEcm0fIa0IVtKw", 
+                "0ArfEDsV3bBwCdERNZmlfUGM5YVE3bmEwODdlRDFqSkE"
+            ], 
+            "Total": [
+                "0AkBd6lyS3EmpdHd2Nld0NEVFOGRiSTc0V3ZoekNuS1E", 
+                "0AkBd6lyS3EmpdHRmYjJWLVF0SjlQY1N5Vm9yU0xxaGc", 
+                "0AkBd6lyS3EmpdFNZMXZwcjNPY2c3MWwxbWIwVFgyd0E", 
+                "0AkBd6lyS3EmpdHJ6UTV4MkEyN0NYdnJJOG1oYUxmTWc"
+            ], 
+            "indicators": [
+                "pyj6tScZqmEdz8B4njtoHPA"
+            ]
+        }, 
+        "Environment": {
+            "Disasters": [
+                "rvRwTPi0n_94EScVA3YjLeg", 
+                "rvbbs7uxQc7swJ4RR2BcQfA", 
+                "rvtZF_JC0OI27tL66o6hiMQ", 
+                "r4WUTsck3NfccM6UsKlGF7g", 
+                "rtESPUlrTyLEoHpURqE8RAg", 
+                "r0JePjBgBQqtuh5wh1Wz9CA", 
+                "rdBew79hTeXcIXhB1VCTPfg", 
+                "rSv5aMDwESiKg-yA__-tRFg", 
+                "tdKPTXS1U5Jn3qAQICk4-Vw", 
+                "rAYA0bjnfYwzXnir0cigijQ", 
+                "rG_BjsDwyS2n7DANNH3i5vQ", 
+                "r6H8dfVPu2CJ2nzI8X0jurw", 
+                "ryPd-H6Kn3wcHC50zyImqUg", 
+                "rsCDusOObseaoBUdarzw7Kw", 
+                "rAxnmm4ZL2HrYjIqJX0Ch-w", 
+                "rskN46tpbe6Iy3K_ULk1_cQ", 
+                "rhbS3kWOfMzvY4ofUFoeFJg"
+            ], 
+            "Emissions": [
+                "0AkBd6lyS3EmpdEVUcEJVRzlFWWRRcjhveGlrQzdwdUE", 
+                "pyj6tScZqmEed4UamoiNCFA", 
+                "phAwcNAVuyj0uBndTxZAXNQ", 
+                "t9SYWh7siLJDzyZYN1R4HfQ", 
+                "16USvgw1H-rXCK0ZMmDkyMPd1FXQNpjCj6HCMIn-fmFQ"
+            ], 
+            "Forestry": [
+                "pp59adS3CHWeB1N1HlpFQVQ", 
+                "pp59adS3CHWeECA6Gf__BNQ", 
+                "pp59adS3CHWc4aJd9fV8zZg", 
+                "pp59adS3CHWe8O-N9RgxzDw", 
+                "pp59adS3CHWfRGgfhjf8FBQ", 
+                "pp59adS3CHWcsSl830EklJA", 
+                "pp59adS3CHWdFemmS_iN5fw", 
+                "pp59adS3CHWdtCylhQOQiXw", 
+                "pp59adS3CHWf66stZ2oNUAA", 
+                "pp59adS3CHWd9CVdfFx1dEw"
+            ], 
+            "Geography": [
+                "0AkBd6lyS3EmpdEF3alRGS0JQZVgwSW1FWUxUQmZoWXc", 
+                "0AkBd6lyS3EmpdFRuaV91Mm9JeUhwR1hHRXJhV3ZBQkE", 
+                "0AkBd6lyS3EmpdFFWcWdEM0RXT1lRZ0wwRVNsakZCaWc"
+            ], 
+            "Water": [
+                "rPN9VekxwpUzwowMaxg9Ybw", 
+                "riLRFECHMsTq7OTa2KYZCWA", 
+                "rezAT4nYhKc2Loe6CxWSPWw", 
+                "ruUmTRBZ5xYjpOAhOT9VQbw", 
+                "rab3jHe_JZrU1pqlX0xnQEw", 
+                "rGKP-BBylLOM11iGahW1lxA", 
+                "r58mA3XNUvBov6M_1T_FiUg", 
+                "rt3BaikcRwJBNC0CvQsjDCA", 
+                "rIG3ZWxv381t2bIL2BNaIVw"
+            ], 
+            "indicators": []
+        }, 
+        "For advanced users": {
+            "Advanced debt & trade": [
+                "pyj6tScZqmEd-30XcArAJHA", 
+                "pyj6tScZqmEdQY2PxSsxxJQ", 
+                "pyj6tScZqmEeUceHo3wTOaQ", 
+                "pyj6tScZqmEddLKU1fnfSSA", 
+                "pyj6tScZqmEcL6zpB3Sj1Wg", 
+                "pyj6tScZqmEe5SueBIj6eSw"
+            ], 
+            "Alternative GDP data": [
+                "0AkBd6lyS3EmpdEdDWHhBcFpjMUo4MGE2X2Q4WXFQRGc", 
+                "phAwcNAVuyj0npaJxInyYDg", 
+                "0ArfEDsV3bBwCdE5xWmcyYVZJQzJvOFpZUklqX3lkSkE", 
+                "tSUr_yZVbM6a3AGJEq_Z2Pw", 
+                "0ArfEDsV3bBwCdGlGLVd4OGVfcVdScVBSS0JLVHpiMlE", 
+                "0ArtujvvFrPjVdERlTHZFQ2ZaUkpySHpQMF82UmdlcUE", 
+                "0ArtujvvFrPjVdEhhbV90QlJ3RFM0TW83dHd6RXBiX3c", 
+                "0ArfEDsV3bBwCdGhmWXFMY0hNcDFiTEt3ZVE4b21wRlE", 
+                "1SKMoV61HUNwWfYNCZs2M9zgMWqVrs9YrbJxs5HQbJSQ"
+            ], 
+            "Alternative child mortality data": [
+                "p8SIY47PNEw6pJRPAS1tXPQ", 
+                "p8SIY47PNEw4TgTkrmIVIXA", 
+                "1qOyLQJxO8zBHvldD1tS1s9dYIHuCe8u72JZQ_LjI9qI"
+            ], 
+            "Alternative demography indicators": [
+                "0ArfEDsV3bBwCdG9jSHA0WklHU0dqUnBCVUpVOXFzQUE", 
+                "0ArfEDsV3bBwCdFJCTm43NGc0SzdYeHBpZWZGb1V0ckE"
+            ], 
+            "Alternative energy": [
+                "0ArfEDsV3bBwCdFFjMFlMeS02N1NGNjJabl8wamVtdHc", 
+                "0ArfEDsV3bBwCdFdaNHA3R1BzcG9GSlkwMXdnMHpScVE", 
+                "0ArfEDsV3bBwCdEV1RkJqTEItQnJYVXJlZzVuc3Y3Mmc"
+            ], 
+            "Alternative health data": [
+                "0ArfEDsV3bBwCdE5UaXVKa2hWbUFzcUJJbVdHOE1VcFE"
+            ], 
+            "Alternative other data": [
+                "phAwcNAVuyj1NHPC9MyZ9SQ"
+            ], 
+            "Alternative poverty measures": [
+                "pyj6tScZqmEd1R9UmohEIaA", 
+                "0ArfEDsV3bBwCdDhjcXdjbURLMFFVcVFPYThhYmtvZXc"
+            ], 
+            "Data quality (use as color)": [
+                "phAwcNAVuyj0atjJIuxy-KQ", 
+                "p8SIY47PNEw6vGCNzlYJ5eA", 
+                "phAwcNAVuyj1ONZlWMf9KQA", 
+                "p8SIY47PNEw4vx1GOsJM7bA", 
+                "thlR4hyNMEnaVyV_uxRzjfQ", 
+                "thDxsgSWvLGW4M1qUBby7OQ"
+            ], 
+            "Economic growth": [
+                "tkdAnkbHJxPAlRX6P1mAh8w"
+            ], 
+            "Geography and infrastructure": [
+                "rAIffGKCmiCdzTl1C0AR2nw"
+            ], 
+            "Injury deaths by gender, age, road user": [
+                "t4pYrpNzP-JeR7zSjOyDofQ", 
+                "tUaaG6Pu9zT_BVIsLvGLQdA", 
+                "tUD6kmYmB_Bp85SRdEn1Krg", 
+                "tB8ge4cxd8TL7yIV4ALm5NA", 
+                "tyeSLo9Zpmw_e05IR3EoReg", 
+                "tHgVOu-6TYQ6Kig0Ur3Y-kw", 
+                "tLf-4GD5z0QxqsDoUz4vOlg", 
+                "t7-m0musxnWbugcQ9ECH4KA", 
+                "0AgogXXPMARyldC1rcTI5OU50Mnc1djdkNXpnWUFrZmc", 
+                "0AgogXXPMARyldDFGSGhtOWt0cS1JbEIzS29EZzlQRXc", 
+                "0AgogXXPMARyldG51d0o2T0JQWXFTMUlydWFsSTZMeFE", 
+                "0AgogXXPMARyldElCSWl6TkpaZ1JpcXVxa2tmUGhxbFE", 
+                "0AgogXXPMARyldGF1WHhpZFVQTWswclJHdjE3MkZ4c3c", 
+                "0AgogXXPMARyldGhJdkhTSHNEYTFKQjRrMlBwZXk1TkE", 
+                "0AgogXXPMARyldHNWNkNVR2Zwalc2U04zTjE5MDZlUkE", 
+                "0AgogXXPMARyldG9MeHpzRkNHQmZ4MmtxSnd2Y0o2UFE", 
+                "0AgogXXPMARyldGh2OWd2eVJiUnhScW9tOEtNTFkyQUE", 
+                "0AgogXXPMARyldEVRNFBZS2wzRmtZOWZEZDVZVG05dHc", 
+                "0AgogXXPMARyldHB2MkhmVDcyMG1Oa3Y5eEhRQ0VlUWc", 
+                "0AgogXXPMARyldEVPSG5qYzBfS0llQ1RnTl9wWXZodkE", 
+                "0AgogXXPMARyldGRqbENsQm5VMWFLdnRXV0w1S0tVSEE", 
+                "0AgogXXPMARyldFJrcW9wdlJITlBDYU9IbnRKdVllVGc", 
+                "0AgogXXPMARyldEw5RXhuckZuU1V2aVAzNDFZaDUxa2c"
+            ], 
+            "Projections": [
+                "rX3Jfop_ebuY-chuMpCgmRg", 
+                "tiAiXcrneZrUnnJ9dBU-PAw", 
+                "tGdhNYGTGtunwzkKJ9aRhsA", 
+                "tL0jLxFBF9TbXIN_39b1qcQ", 
+                "t6nZVbvqsF-BbyheqUxerZQ", 
+                "tZMsbTkrY0k4OkkkXEfp6pA", 
+                "rZrHzR__kZfmw6L_xUx7cwg"
+            ], 
+            "Years (use as color)": [
+                "phAwcNAVuyj2t4ep52YXjSg", 
+                "phAwcNAVuyj02SA7cGjnRbA"
+            ], 
+            "families": [
+                "0ArtujvvFrPjVdDRQTUhzNmVySlp6djRtLWh4eS1sNHc", 
+                "0ArtujvvFrPjVdGdFWmhqOEVXcUZha1hJWXAtWHlDSFE"
+            ], 
+            "indicators": [
+                "0ArfEDsV3bBwCdHFkZlc5WkhVQmVmeU0tR0RsSUdTU0E"
+            ]
+        }, 
+        "Health": {
+            "Cancer, female": [
+                "phAwcNAVuyj0Zbn8wVYsEHQ", 
+                "phAwcNAVuyj3XpKHFksEPcA", 
+                "phAwcNAVuyj2P7lqZXLeZAw", 
+                "phAwcNAVuyj2xhaKENmyRKw", 
+                "phAwcNAVuyj0UaQ2DNjK9Lg", 
+                "phAwcNAVuyj0je8zzeM4WXQ", 
+                "teiT4rPfnWcd5mCldIm4Zhw", 
+                "phAwcNAVuyj2fGuJ1VdTpOw", 
+                "phAwcNAVuyj0g-SgNTI23GQ", 
+                "phAwcNAVuyj2L5YHqVxRTLA", 
+                "phAwcNAVuyj1_IYQtrqQCKQ", 
+                "phAwcNAVuyj2oQAW8_53cVQ", 
+                "phAwcNAVuyj1aXfw3aV83TA", 
+                "tDkfgIt5oQ_ZJQ7IBmUvsUg", 
+                "phAwcNAVuyj3wJUwXXDdiGg", 
+                "phAwcNAVuyj0jPl21g3mqfQ", 
+                "phAwcNAVuyj3bdzmKAvdUSw", 
+                "phAwcNAVuyj2ItBsVpK9VBA", 
+                "phAwcNAVuyj2hZorcv6aVLA", 
+                "phAwcNAVuyj0RpUEQPgGcZQ", 
+                "ts7TQEIg0amXovCDzQxV5EA", 
+                "phAwcNAVuyj07QB-Apx8RfQ", 
+                "phAwcNAVuyj2KBU_veE9AQg", 
+                "phAwcNAVuyj0ndPkFlozzXQ", 
+                "phAwcNAVuyj2LwNOwMSnJQA", 
+                "phAwcNAVuyj0RMyUI1QFfaA", 
+                "phAwcNAVuyj1o1rJNFHpQZw"
+            ], 
+            "Cancer, male": [
+                "phAwcNAVuyj2UBFFaFy3Ebg", 
+                "phAwcNAVuyj1u0KpZbsopCA", 
+                "phAwcNAVuyj1kCRbsnNcTVg", 
+                "phAwcNAVuyj3qX39HWaQjEg", 
+                "phAwcNAVuyj1XKvT6zwrMPw", 
+                "tYvQLeBTuoKsyofvwGqS-9w", 
+                "phAwcNAVuyj3nBOvEwrkMTA", 
+                "phAwcNAVuyj2LIYJXVW9EVw", 
+                "phAwcNAVuyj0sd0z2MGpeeA", 
+                "phAwcNAVuyj2vXUZJKI0XHA", 
+                "phAwcNAVuyj3XF3cD2lbecA", 
+                "tIL264Nlw0AlIWlXuCWWNmQ", 
+                "phAwcNAVuyj0VhkB8-rRHQg", 
+                "phAwcNAVuyj3rojF8TmZtOw", 
+                "phAwcNAVuyj2_ibAjsuNgYA", 
+                "phAwcNAVuyj2S9phBhTP3dw", 
+                "phAwcNAVuyj3ky4_oAkatBw", 
+                "tFc2tyrcWLcUyGhq6mTAbDg", 
+                "phAwcNAVuyj0-sqkfnD4rGA", 
+                "phAwcNAVuyj1RD88c3w1vNg", 
+                "phAwcNAVuyj2Az43qu-dQJQ", 
+                "phAwcNAVuyj1ImYURLRHPRA", 
+                "phAwcNAVuyj2NmCvOcsjpag"
+            ], 
+            "Causes of child deaths": [
+                "t9FP3_OPrE2ug_I_iNsbePg", 
+                "tADSStUzP0ADEPYqsIfVHMQ", 
+                "t4C4M_ynK9Ho8tGRj6a5U5w", 
+                "tfOi0Ji7pJDJbxJVqwJXj9g", 
+                "tunqKEwokfnJMDA1g7W8KwA", 
+                "tfyKUbGu10P_WOgHSOHhCJg", 
+                "tZhYsw0sliDInwowT0iWTLQ", 
+                "tqAEpy6pMtN7ULlF6uIzEog", 
+                "t4RbfeK6Dtt2srxw4REoXxQ", 
+                "tCe8N5KXAYCJteQokAqVM_A", 
+                "tVAqgYwCDZfcq9jSCI87SAw", 
+                "tFrUv6vnhhO4Jr1czdG_p0Q", 
+                "taYeez4Mkk8OvdH-q4QAxxQ", 
+                "tDzIq4iIDwNtYthN_QYZwZg", 
+                "tQe6yinBBauXLvBFroZEL3Q", 
+                "tnRIpcH0InZUFz7f2ziXKog", 
+                "t1Vf-4rkGlG20pYzuGib3hw", 
+                "tYZAce4wGXEp5Jve3AI7yWQ", 
+                "tX-vHLzEZ7mqfk1vf6SbUXA", 
+                "tfmFGk3PIvTgimegQiHOtSQ", 
+                "tdOlzqGxVdDnnCpfWyyGX1A", 
+                "tcYkTk6KMHsrXzcM9WyUxbw", 
+                "tiehFos6jB-lekEAH028deA"
+            ], 
+            "Causes of newborn deaths": [
+                "tbpc_fYEqPzaE7pDWBG84Rw", 
+                "t_0WcTuc94YT9cJVvy1tmUg", 
+                "tneegXfZGHA0-nLG25ypnyg", 
+                "tX7NQAP_5H4TOS1OEnxdxYw", 
+                "tOXHWd6PcUGK3Dg-k2N8Clw", 
+                "tVMPnbOfGdvTRrtbuIbRw5w", 
+                "tGVRSoAJtdwQ30CqCSexKJA", 
+                "t1E7e32tlIxtJU9UhnR9nJg", 
+                "tiYIen5OQP0fKiQbg6g8VyA", 
+                "tLiJLI_rimqrdQRWdamPPRQ", 
+                "tBVcAKWEbc2s687q6D9yuYg", 
+                "twrll6eL8GeIU4P71aTakmg", 
+                "tUvFsKz2lGL-GtPmw47VLdg", 
+                "tKZcnGP_XImMXRZ4tZqtjMg", 
+                "tjvbVGhVx7YCk1uguLrkaag", 
+                "tVyFL3CyRTuGEnRQErDeSLQ", 
+                "tRA1VmW2ZQ7sCsoD7AHIilg", 
+                "tB6Gkh4rLC9yB2TXfHSApIA", 
+                "tyPO4OLCIZtK5zcdkafcHMA"
+            ], 
+            "HIV": [
+                "pyj6tScZqmEe1GaiYJX2qGA", 
+                "pyj6tScZqmEfbZyl0qjbiRQ", 
+                "0ArfEDsV3bBwCdFk2WGhwakxTQkt4NUtTdFJDSlFHQ3c", 
+                "0ArfEDsV3bBwCdDREUkRSRDJtQmFNTE1TYmRYX1pFNEE", 
+                "0ArfEDsV3bBwCdHZJdFBhYVlvck43d1R6ZFYzUWpiLWc", 
+                "0ArfEDsV3bBwCdHMzRDA5Z1RjWkJIWkNfdWNBVFR6b1E"
+            ], 
+            "Health Economics": [
+                "phAwcNAVuyj3XYThRy0yJMA", 
+                "pyj6tScZqmEcJI3KBJnrlDQ", 
+                "pyj6tScZqmEcXBFxQw8cFaw", 
+                "tXf6_OUYVmyEMZo0g4DQw6w", 
+                "pyj6tScZqmEd7K-YgYOkGFQ", 
+                "tJwP0x54AZ-X-bGL-RebrpA", 
+                "tR3MM-UTZ0B44BKxxWeAZaQ", 
+                "tZ3uHUdw0H__Siyj78GXsGg", 
+                "pyj6tScZqmEeL79qOoKtofQ", 
+                "tBwBBkViOJoycBhLnWHqwSQ", 
+                "phAwcNAVuyj2yo1IzJQmbZg"
+            ], 
+            "Injuries and accidents": [
+                "0AgogXXPMARyldGloTm9wekpDcUdMUjhlYWFKaHdnVWc", 
+                "0AgogXXPMARyldF9ZRnhuWWljUXJHRDRpb0cyaHNLSUE", 
+                "0AgogXXPMARyldEJZajRXMWZPTE9nUXFBNUdPcG5yT2c", 
+                "0AgogXXPMARyldGhVLXVsSTB0aDY2eXdLaEt1T0psdXc"
+            ], 
+            "Malaria": [
+                "pp59adS3CHWcGnFB9pe14OA", 
+                "pp59adS3CHWfGZUVJ2L-dCw", 
+                "pp59adS3CHWczfPHQMiqxCg", 
+                "pp59adS3CHWfZGL9qouvTbQ"
+            ], 
+            "Maternal health": [
+                "0AkBd6lyS3EmpdF9OQ2dSSG5nNFhpS3RnRVZHUzZMb3c", 
+                "0AkBd6lyS3EmpdFp2OENYMUVKWnY1dkJLRXAtYnI3UVE", 
+                "pyj6tScZqmEcVezxiMlWaRw", 
+                "tOJs331rbt36sNBXE8g5AUg", 
+                "t2ha4jg1M70Le8CH3wHcPIQ", 
+                "tgJHpDEY4S7hxJpELGJueWA"
+            ], 
+            "Mental health": [
+                "troMumuI0Y6Phpwnj6qXa_A", 
+                "tOS388dWYzO1_FANUaiwKuA"
+            ], 
+            "Newborn & Infants": [
+                "phAwcNAVuyj0NpF2PTov2Cw", 
+                "1S3Kcw96vp5-fZbaM7Lck_06IbJ8DagThGI5KHnzeSps", 
+                "1iTvolhgIMta3MmsoPkGnewJiaybev3MvR9e_7mxZ48o"
+            ], 
+            "Nutrition": [
+                "0AkBd6lyS3EmpdGhpWDY5QVlOdUxpVGhaMVlUOE9iX0E", 
+                "phAwcNAVuyj2sdmdhX9zuKg", 
+                "0ArfEDsV3bBwCdGlYVVpXX20tbU13STZyVG0yNkRrZnc"
+            ], 
+            "Risk factors": [
+                "0AgogXXPMARyldGJqTDRfNHBWODJMRWlZaVhNclhNZXc", 
+                "tRccVp7QMaCXMv19CcxERaA", 
+                "thortPEzDn2xc_5bU255mPA", 
+                "t60tpjxpWq3Bm-nBOvSm3og", 
+                "0ArfEDsV3bBwCdF9saE1pWUNYVkVsNU1FdW1Yem81Nmc", 
+                "0ArfEDsV3bBwCdGt0elo2dzJMVVQ3WmFGSmdhc09LRlE", 
+                "0ArfEDsV3bBwCdHNwRm9DN1FnT3hXWWZVSncxMkZyS2c", 
+                "0ArfEDsV3bBwCdHBzUVVSMDlTX1ZCUnNJQ3ZFdkFXVFE", 
+                "0ArfEDsV3bBwCdDU5SnRoQ0xlZWhwRUZ6RFNQV042enc", 
+                "0ArfEDsV3bBwCdGJHcHZkSUdBcU56aS1OT3lLeU4tRHc"
+            ], 
+            "TB (tuberculosis)": [
+                "rVyfxaPK4dJ9B6ZdgG34F-g", 
+                "r0pD5wznwEUJ0ipdxAWQjiA", 
+                "rOPfJcbTTIyS-vxDWbkfNLA", 
+                "rcbx0R-TXbkqRCyvKzn08fg", 
+                "rDb6EYc4YUTBRfXlBvjHYlg", 
+                "rjGHot8B6YSt3kPYEG8nANA", 
+                "rewICFMTvBuer8UoJIK0yUg", 
+                "rKfjGaPxqirPDe8gnTVKuIw", 
+                "rMF2H57_Vd8TdobvtNhYuwg", 
+                "rMsQHawTObBb6_U2ESjKXYw", 
+                "rZNoyaocUmUGuFyRgjJUpig", 
+                "rWM9yEzjpGJvcJlUAIm35tA", 
+                "rYICvtvVz28fVyQuG_ote2w", 
+                "rhZayTbvH3ZLlSN64OuRYFg", 
+                "rOCGMcGcrZs-dfeTEC792ZQ", 
+                "rrQ_y5fqQPlznp5mJGXWr-A", 
+                "r5UikGjnZlemlelKY0NX9Pg", 
+                "ru195-zJ0rsx5axPIvm_bRA", 
+                "rutVwqgB14uRV_f2dRbqhUA", 
+                "rj8WsGGNXkijP447qnY5RLg", 
+                "rRCxDI3hB9E9zvc8qSe11qg", 
+                "rQV47xgPGa3qOPHoLiVon-w", 
+                "rUBCConMMLm9CxPXUGm325A", 
+                "rERPF4iYruK0DhAw_0tb5nA", 
+                "reiGJwoabnMOrPeFima_9ng", 
+                "rFAkC0Ae7oXxrVqosJ4NWUA"
+            ], 
+            "Teeth": [
+                "phAwcNAVuyj3Os9LVO_pRDA"
+            ], 
+            "Vaccine": [
+                "txVTyScWObTBNuMmkNtLh1w", 
+                "t7pU8fR9_ZzRFIMF3FX47YQ", 
+                "thClNiXoQqfJDzTv0SYIHZg", 
+                "pyj6tScZqmEenS18Yjl_SOQ", 
+                "tnvxVX8aOAl0dwDNujbELPQ"
+            ], 
+            "indicators": [
+                "0ArfEDsV3bBwCdDdTQUtvNEJhb0RjRjU0WUtET1R0Vnc", 
+                "0ArfEDsV3bBwCdGhSY2trbEVpYnNsMENqendaVm5ucnc", 
+                "1iHsRp1TARpgh2CbuZGP5fj6jeY3Iz5cBLKTDlukVSHI", 
+                "12VhzicKNQCt8I4gmtBmulpfzDfnGjvFPr38g2wDcEGU"
+            ]
+        }, 
+        "Infrastructure": {
+            "Communication": [
+                "0AkBd6lyS3EmpdEpMTHBoMmNzcDVCNVRHWE5zSVJVRHc", 
+                "0AkBd6lyS3EmpdHdmMGVNNnV1SHBONDRTdTJzTVBKQXc", 
+                "0AkBd6lyS3EmpdEhWLWtqNzljbWg4ZXV6M09JQXNGaUE", 
+                "0AkBd6lyS3EmpdG1MSjEyS0h2QjRQZ3FXRVR2dVQyeFE", 
+                "pyj6tScZqmEcfLoOcU6GAfg", 
+                "0AkBd6lyS3EmpdC1PcWJUZldDelFyQXdaOEtDUG9HSUE", 
+                "0AkBd6lyS3EmpdGwzSGV5OE9FOGhURlhTdEQtMW1TNkE", 
+                "pyj6tScZqmEfUXdC83YSzfw", 
+                "pyj6tScZqmEdFW4nUY4gQdA"
+            ], 
+            "Sanitation": [
+                "0ArfEDsV3bBwCdE4tekJPYkR4WmJqYTRPWjc3OTl4WUE", 
+                "pyj6tScZqmEfLbPu48DrKfQ", 
+                "0ArfEDsV3bBwCdFNPMTE3d3FHTHdYaGFMXzJyNDBGd3c"
+            ], 
+            "Traffic": [
+                "0AkBd6lyS3EmpdDBKd2V5VmxkYlJuUHAtOURzUkZzNEE", 
+                "tK87SOy-oZlfW99UDD7L3hw", 
+                "tu0H0unnUriNvMXwH_qOqzw", 
+                "tW9t1f9EQpvS4U04kWnk-og"
+            ], 
+            "Water": [
+                "pyj6tScZqmEd98lRwrU3gIg", 
+                "0ArfEDsV3bBwCdDlJNzNjcVc5Sm9memNuVHRzY1FsOXc", 
+                "0ArfEDsV3bBwCdFhhVzhXUEh0U0hlQ3M3TTZIQTFySUE"
+            ], 
+            "indicators": []
+        }, 
+        "Population": {
+            "Both sexes by age (%)": [
+                "rsOONWhmGBtzb4j__0MJv7Q", 
+                "rC5UskPU6PRVlmN7eXoridw", 
+                "rmViJSkPd4xZneV2Q6gzFwQ", 
+                "r4VUu4a4AaWqXXoAsFz-z-Q", 
+                "rTU20DXn0Bi7bTwW5T6J3gg", 
+                "rLwpdKbW2OykBbvVxhYKrhA", 
+                "rH6TEe8f_WNq_8x9pWZ3W0A"
+            ], 
+            "Both sexes by age (total)": [
+                "rovrK0Uj9JPN95P9adob0tw", 
+                "r83X3yfjC6ENYWoo41yDehg", 
+                "r9ztOSMb5WNHUBLwlgJqPSw", 
+                "rFmJvuotJYE30q4nWEvpGJA", 
+                "rHrin819tHgZudARnpsN0Mg", 
+                "ri9SXMNc7TpebHucmAYepGQ", 
+                "rVD6A2uAmeIE0BQNW1KSg3A"
+            ], 
+            "Female by age (%)": [
+                "roLpNPQkooNCFzpTWXQ48Dw", 
+                "re3efChATTYAT5bRqoaChXA", 
+                "rJwVmwTFzheqVUzYWwSqXlA", 
+                "rYEHWlJHaLjHtcsSpRRJeig", 
+                "rWpQHQIQdntj6BEK8OIuWYw", 
+                "rElErbmOnSM6om03a1uinKQ", 
+                "rjhBvpeRgCxBq0EnQVN6b0w"
+            ], 
+            "Male by age (%)": [
+                "rIpDsoI9lVTCh_PRqm66Tcw", 
+                "rgyZrNmSfXcPJQxJK7IxnEw", 
+                "rmQZ_H88rIhF3315QBZpcIQ", 
+                "rYfw4UJZSizLRtgDs73d5jA", 
+                "rab1GmqpzJkWd4MF0hieVgA", 
+                "rcQkob1yAm-to1scz51flgw", 
+                "rSkhGgUVN74knEhSAhBSSKA"
+            ], 
+            "Population growth": [
+                "0AkBd6lyS3EmpdFY5Z0QzTzRRbzJ1VXdqdGVyNE0tcFE", 
+                "tUSeGJOQhafugwUvHvY-wLA", 
+                "tHyj-2jRvK3CCNJOc5Vm-HQ", 
+                "pyj6tScZqmEdIphYUHxcdLg", 
+                "0ArfEDsV3bBwCdERQeFplM2VWczVrMTFfMXVrQkJpVXc"
+            ], 
+            "Sex ratio": [
+                "tAQ31_cAELrHqNc2qa13uHw", 
+                "tfWSVJPJHn3u7e_7MUaCbnw", 
+                "ta-Da73B_Z7lKOZo8o-Ykvw", 
+                "tF_P_4G0g5bR3lYmQT9Tv4w", 
+                "tQP1KnoWcjjtz3wmq0bnGNA"
+            ], 
+            "Urbanization": [
+                "pyj6tScZqmEdwXv1tqzV4Xg", 
+                "pyj6tScZqmEfH89V6UQhpZA", 
+                "phAwcNAVuyj0-LE4StzCsEw", 
+                "pyj6tScZqmEcRJEN8MyV3PQ"
+            ], 
+            "indicators": [
+                "phAwcNAVuyj2biT80zgTsYQ", 
+                "tH113JLeGr5DhWgtqN2FxWg", 
+                "tVY51lNaCL9m9xPqf29oFAA", 
+                "phAwcNAVuyj0XOoBL_n5tAQ", 
+                "t4eF8H_jq_xyKCUHAX6VT1g"
+            ]
+        }, 
+        "Society": {
+            "War & peace": [
+                "0AkBd6lyS3EmpdDNPQjFBT2s5Zko3U2V0NFQzS3owRnc", 
+                "0AgogXXPMARyldElMWEl4RFVTemlMbzJqRU50ZDJ3SHc", 
+                "0Asm_G8nr4TCSdG1nNjk5RzItcUp6N2dSdHUwOENXa0E", 
+                "0Asm_G8nr4TCSdFFoVWRjcUdKZDFydGdGNXkzS2ZRbHc"
+            ], 
+            "indicators": [
+                "tZgPgT_sx3VdAuyDxEzenYA", 
+                "tKOphM3UPRd94T6C6pmsuXw", 
+                "0ArfEDsV3bBwCdGQ2YlhDSWVIdXdpMmhLY2ZZRHdNNnc", 
+                "tyadrylIpQ1K_iHP407374Q", 
+                "tIgjxaAg3M6kuHRcQTjEgsQ"
+            ]
+        }, 
+        "Work": {
+            "Employment by sector": [
+                "rzFD5mOuB5mR7-vLoP04LAQ", 
+                "rqcJTExcUqNdolB-7flqebQ", 
+                "r4orIwujZpT-z3Exd_9ARpQ", 
+                "rraOr_PTB0jcQ60TagEH_WQ", 
+                "rA5BvUGX_Es43DaKb3FidUg", 
+                "r1B3mjfpBItUmvrhqaRgTWQ", 
+                "rtt_ihBgyYafmDJpThQecoA", 
+                "rmLnlLnnm2kjBbNsBZYxqow", 
+                "ravxsZdBslM5zF5HwDsX30g"
+            ], 
+            "Employment by status": [
+                "rW7k_DdDKlGgJhzYRuNvguw", 
+                "rcO6CXqmEjV-wS-29qejCpw", 
+                "rSrvaPPzWvOyTMb9_dfJDtQ", 
+                "rjFKVVoWIVbTgdtJK2xOZqQ", 
+                "rhuyv42EAyApMwy4tDYm3XQ", 
+                "rIe2Y4f4Ehde4I4BGPN2VBg", 
+                "rJMlhr2YOvL2EE5NhpbfYAg", 
+                "riwXFQrsUhb96BT2yFC9rFw", 
+                "raAOA9AFRPzq5ilAm5Qa65Q"
+            ], 
+            "Employment rate": [
+                "rfHz_nx27dDQo4dUoIeVT3A", 
+                "rV0ksExNqh6V_h40f0_nFjg", 
+                "rRS0FbArN8jYsY25X-ZiU9A", 
+                "rOXvRa2ZC2oXqBn7gz62IMg", 
+                "rCyfwvThkbHVlNVw48vHybg", 
+                "rTRt7Z5m9i9D9-vvipvdx2w"
+            ], 
+            "Labour force participation": [
+                "rx1TECfEnGlnomonxCCO-Aw", 
+                "rTrB-PY0sfM_gdAQ20XovfA", 
+                "ryyQX_1TXlohXWOSUswhIKg", 
+                "r1hlZB_n1rpXTij11Kw7lTQ", 
+                "rLRScmH2JZmjxsCGW2LB1cA", 
+                "rgdYcit5cC0wxcLAQf9kJ_Q", 
+                "rZyHDNFsPBn7cqZCIzDQtIg", 
+                "rEZ0xOSmU7UuX7iOyL0Xp3g", 
+                "rB4P-M5oVWuv9CyQ5s1mvOA", 
+                "rj102tw9R1O_d56Uw_eqBzg", 
+                "rImcpLhokI0fXWNA-2nSWFw", 
+                "r_hbrX2qsjHphzAAlwsxhRA"
+            ], 
+            "Unemployment": [
+                "rb0oP4d1BREXa8xMIUf4NZg", 
+                "rEMA-cbNPaOtpDyxTcwugnw", 
+                "rlD36wGmkwFt3ED558waCTQ", 
+                "rNn0y3e0bCpaqTM_8BVZBdg", 
+                "rCRqVXC95LeKm_EvLrFNXKw", 
+                "rMf--YMvuEKf2LVppT63Xvw", 
+                "r9StWVETzyX9Lv-r4-2sh6w", 
+                "rcHjAQAzF2e1yR1R-hywCEw", 
+                "rz8kJ7CIyckuQAWgHUHe4sA", 
+                "rT5EpK40a19zVodp1HV1xGw", 
+                "rGS7_GpdXrYyjhKkAFcLHGA", 
+                "rjkDFSPV2pw9Pbnz2kpiqPQ", 
+                "r5_68IYi0bC1bRjGMFYFk8g", 
+                "rSMPg9BmVRsqE8_k1ARUudA", 
+                "rezDaYxOOBEFgR4TiPN9qtw"
+            ], 
+            "indicators": []
+        }
+    }, 
+    "indicators": [
+        "phAwcNAVuyj0TAlJeCEzcGQ", 
+        "phAwcNAVuyj1gkNuUEXOGag", 
+        "phAwcNAVuyj1jiMAkmq1iMg", 
+        "0ArfEDsV3bBwCcGhBd2NOQVZ1eWowNVpSNjl1c3lRSWc", 
+        "phAwcNAVuyj2tPLxKvvnNPA"
+    ]
+}
