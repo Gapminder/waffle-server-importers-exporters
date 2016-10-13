@@ -66,6 +66,13 @@ callback(indicator_url=indicator_url, indicator_id=indicator_url[key_index:])
 python ws_import/proc_runners/gw.py
 ```
 
+In Windows:
+```
+SET PYTHON_PATH=. && py -2 ws_import\proc_runners\gw.py
+```
+`SET PYTHON_PATH=.` sets the python working directory path to the root of the repo
+`py -2` makes sure you use python 2 if you have both python 2 and 3 installed
+
 * Run ws_export/start.py and you will get the data in data/out/gw/xml
 
 ```
